@@ -20,14 +20,12 @@ COMPANIES = [
     {
         "name": "Watershed",
         "careers_url": "https://watershed.com/careers",
-        "greenhouse_board": "watershedclimate",
-        "lever_company": "watershed",
+        "ashby_org": "Watershed",
     },
     {
         "name": "Figma",
         "careers_url": "https://www.figma.com/careers/",
         "greenhouse_board": "figma",
-        "lever_company": "figma",
     },
 ]
 
@@ -56,6 +54,26 @@ def fetch_greenhouse_jobs(board_token: str) -> list[dict]:
         return jobs
     except Exception as e:
         print(f"  Greenhouse API failed ({board_token}): {e}")
+        return []
+
+
+def fetch_ashby_jobs(org: str) -> list[dict]:
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{org}"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15, params={"includeCompensation": "false"})
+        resp.raise_for_status()
+        jobs = []
+        for job in resp.json().get("jobs", []):
+            if is_target_role(job.get("title", "")):
+                jobs.append({
+                    "id": job["id"],
+                    "title": job["title"],
+                    "location": job.get("location", ""),
+                    "url": job.get("jobUrl", ""),
+                })
+        return jobs
+    except Exception as e:
+        print(f"  Ashby API failed ({org}): {e}")
         return []
 
 
@@ -110,6 +128,12 @@ def fetch_html_jobs(careers_url: str, company_name: str) -> list[dict]:
 
 def scrape_company(company: dict) -> list[dict]:
     name = company["name"]
+
+    if org := company.get("ashby_org"):
+        jobs = fetch_ashby_jobs(org)
+        if jobs:
+            print(f"  {name}: {len(jobs)} match(es) via Ashby")
+            return jobs
 
     if board := company.get("greenhouse_board"):
         jobs = fetch_greenhouse_jobs(board)
