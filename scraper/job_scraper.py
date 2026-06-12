@@ -171,6 +171,8 @@ def fetch_playwright_jobs(careers_url: str, company_name: str, load_more_selecto
                     continue
                 seen_titles.add(text)
                 href = el.get_attribute("href") or ""
+                if not href:
+                    href = el.evaluate("el => el.closest('a')?.href || ''")
                 if href and not href.startswith("http"):
                     href = urljoin(careers_url, href)
                 slug = re.sub(r"[^a-z0-9]+", "_", text.lower())[:60]
