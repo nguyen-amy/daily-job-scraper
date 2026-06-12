@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
           git add data/seen_jobs.json
           git diff --staged --quiet || git commit -m "chore: update seen jobs cache [skip ci]"
-          git pull --rebase
           git push
