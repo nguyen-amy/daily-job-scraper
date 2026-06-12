@@ -15,7 +15,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-TARGET_KEYWORDS = ["data scientist", "mle", "AI engineer", "machine learning engineer", 
+TARGET_KEYWORDS = ["data scientist", "AI engineer", "machine learning engineer", 
                    "machine learning scientist", "ML engineer", "AI/ML Engineer"]
 
 COMPANIES = [
@@ -46,7 +46,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; JobAlertBot/1.0)"}
 
 
 def is_target_role(title: str) -> bool:
-    return any(kw in title.lower() for kw in TARGET_KEYWORDS)
+    title_lower = title.lower()
+    return any(kw.lower() in title_lower for kw in TARGET_KEYWORDS)
 
 
 def fetch_greenhouse_jobs(board_token: str) -> list[dict]:
