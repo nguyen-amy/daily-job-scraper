@@ -13,8 +13,10 @@ from email.mime.text import MIMEText
 
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
-TARGET_KEYWORDS = ["data scientist"]
+TARGET_KEYWORDS = ["data scientist", "mle", "AI engineer", "machine learning engineer", 
+                   "machine learning scientist", "ML engineer", "AI/ML Engineer"]
 
 COMPANIES = [
     {
@@ -27,6 +29,16 @@ COMPANIES = [
         "careers_url": "https://www.figma.com/careers/",
         "greenhouse_board": "figma",
     },
+    {
+        "name": "Spotify",
+        "careers_url": "https://www.lifeatspotify.com/jobs",
+        "greenhouse_board": "spotify",
+    },
+    {
+        "name": "Apple",
+        "careers_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+        "use_playwright": True,
+    }
 ]
 
 SEEN_JOBS_FILE = "data/seen_jobs.json"
@@ -126,6 +138,44 @@ def fetch_html_jobs(careers_url: str, company_name: str) -> list[dict]:
         return []
 
 
+def fetch_playwright_jobs(careers_url: str, company_name: str) -> list[dict]:
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("  Playwright not installed — run: pip install playwright && playwright install chromium")
+        return []
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(careers_url, timeout=30000)
+            page.wait_for_load_state("networkidle", timeout=30000)
+
+            seen_titles: set[str] = set()
+            jobs = []
+            for el in page.query_selector_all("a, h1, h2, h3, h4, li"):
+                text = el.inner_text().strip()
+                if not text or not is_target_role(text) or text in seen_titles:
+                    continue
+                seen_titles.add(text)
+                href = el.get_attribute("href") or ""
+                if href and not href.startswith("http"):
+                    href = urljoin(careers_url, href)
+                slug = re.sub(r"[^a-z0-9]+", "_", text.lower())[:60]
+                jobs.append({
+                    "id": f"{company_name.lower()}_{slug}",
+                    "title": text,
+                    "location": "",
+                    "url": href or careers_url,
+                })
+            browser.close()
+            return jobs
+    except Exception as e:
+        print(f"  Playwright scrape failed ({careers_url}): {e}")
+        return []
+
+
 def scrape_company(company: dict) -> list[dict]:
     name = company["name"]
 
@@ -146,6 +196,12 @@ def scrape_company(company: dict) -> list[dict]:
         if jobs:
             print(f"  {name}: {len(jobs)} match(es) via Lever")
             return jobs
+
+    if company.get("use_playwright"):
+        print(f"  {name}: using Playwright scrape")
+        jobs = fetch_playwright_jobs(company["careers_url"], name)
+        print(f"  {name}: {len(jobs)} match(es) via Playwright")
+        return jobs
 
     print(f"  {name}: falling back to HTML scrape")
     jobs = fetch_html_jobs(company["careers_url"], name)
