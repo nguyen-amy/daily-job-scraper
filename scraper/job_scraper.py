@@ -16,7 +16,8 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 TARGET_KEYWORDS = ["data scientist", "AI engineer", "machine learning engineer", 
-                   "machine learning scientist", "ML engineer", "AI/ML Engineer"]
+                   "machine learning scientist", "ML engineer", "AI/ML Engineer", "data engineer",
+                   "solutions engineer", "solutions architect"]
 
 COMPANIES = [
     {
@@ -33,6 +34,7 @@ COMPANIES = [
         "name": "Spotify",
         "careers_url": "https://www.lifeatspotify.com/jobs",
         "use_playwright": True,
+        "load_more_selector": "button:has-text('Load more jobs')",
     },
     {
         "name": "Apple",
@@ -139,7 +141,7 @@ def fetch_html_jobs(careers_url: str, company_name: str) -> list[dict]:
         return []
 
 
-def fetch_playwright_jobs(careers_url: str, company_name: str) -> list[dict]:
+def fetch_playwright_jobs(careers_url: str, company_name: str, load_more_selector: str = "") -> list[dict]:
     try:
         from playwright.sync_api import sync_playwright
     except ImportError:
@@ -152,6 +154,14 @@ def fetch_playwright_jobs(careers_url: str, company_name: str) -> list[dict]:
             page = browser.new_page()
             page.goto(careers_url, timeout=30000)
             page.wait_for_load_state("networkidle", timeout=30000)
+
+            if load_more_selector:
+                while True:
+                    btn = page.query_selector(load_more_selector)
+                    if not btn or not btn.is_visible():
+                        break
+                    btn.click()
+                    page.wait_for_load_state("networkidle", timeout=15000)
 
             seen_titles: set[str] = set()
             jobs = []
@@ -200,7 +210,7 @@ def scrape_company(company: dict) -> list[dict]:
 
     if company.get("use_playwright"):
         print(f"  {name}: using Playwright scrape")
-        jobs = fetch_playwright_jobs(company["careers_url"], name)
+        jobs = fetch_playwright_jobs(company["careers_url"], name, company.get("load_more_selector", ""))
         print(f"  {name}: {len(jobs)} match(es) via Playwright")
         return jobs
 
