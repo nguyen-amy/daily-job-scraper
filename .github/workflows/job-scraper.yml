@@ -28,6 +28,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
       - name: Run job scraper
         env:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
