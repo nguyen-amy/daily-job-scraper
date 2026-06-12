@@ -32,7 +32,7 @@ COMPANIES = [
     {
         "name": "Spotify",
         "careers_url": "https://www.lifeatspotify.com/jobs",
-        "greenhouse_board": "spotify",
+        "use_playwright": True,
     },
     {
         "name": "Apple",
