@@ -1,4 +1,21 @@
 {
+  "Apple": {
+    "apple_aiml_machine_learning_engineer_foundation_models": {
+      "first_seen": "2026-06-13T20:20:31.804519",
+      "title": "AIML - Machine Learning Engineer, Foundation Models",
+      "url": "https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI"
+    },
+    "apple_aiml_machine_learning_engineer_foundation_models_machine_lea": {
+      "first_seen": "2026-06-13T20:20:31.804469",
+      "title": "AIML - Machine Learning Engineer, Foundation Models\nMachine Learning and AI\nJun 12, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI"
+    },
+    "apple_shareaiml_machine_learning_engineer_foundation_models_200633": {
+      "first_seen": "2026-06-13T20:20:31.804525",
+      "title": "ShareAIML - Machine Learning Engineer, Foundation Models 200633262-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    }
+  },
   "Figma": {
     "5220003004": {
       "first_seen": "2026-06-12T02:56:48.869532",
@@ -34,6 +51,98 @@
       "first_seen": "2026-06-12T20:15:44.816782",
       "title": "Data Scientist, Finance",
       "url": "https://boards.greenhouse.io/figma/jobs/6013304004?gh_jid=6013304004"
+    }
+  },
+  "Spotify": {
+    "spotify_data_engineer_platform": {
+      "first_seen": "2026-06-13T20:20:20.635890",
+      "title": "Data Engineer, Platform",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_data_scientist_ii_platform_mission": {
+      "first_seen": "2026-06-13T20:20:20.635933",
+      "title": "Data Scientist II, Platform Mission",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_machine_learning_engineer": {
+      "first_seen": "2026-06-13T20:20:20.635928",
+      "title": "Machine Learning Engineer",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_machine_learning_engineer_personalization": {
+      "first_seen": "2026-06-13T20:20:20.635892",
+      "title": "Machine Learning Engineer, Personalization",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_machine_learning_engineering_manager_personalization": {
+      "first_seen": "2026-06-13T20:20:20.635923",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_content_intelligence": {
+      "first_seen": "2026-06-13T20:20:20.635866",
+      "title": "Senior Machine Learning Engineer, Content Intelligence",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_enrichment_content_intellig": {
+      "first_seen": "2026-06-13T20:20:20.635870",
+      "title": "Senior Machine Learning Engineer, Enrichment & Content Intelligence",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_generative_ui_platform": {
+      "first_seen": "2026-06-13T20:20:20.635914",
+      "title": "Senior Machine Learning Engineer, Generative UI Platform",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_messaging_platform": {
+      "first_seen": "2026-06-13T20:20:20.635876",
+      "title": "Senior Machine Learning Engineer, Messaging Platform",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_personalization": {
+      "first_seen": "2026-06-13T20:20:20.635873",
+      "title": "Senior Machine Learning Engineer, Personalization",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_personalization_magenta": {
+      "first_seen": "2026-06-13T20:20:20.635878",
+      "title": "Senior Machine Learning Engineer, Personalization, Magenta",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_personalization_music_under": {
+      "first_seen": "2026-06-13T20:20:20.635904",
+      "title": "Senior Machine Learning Engineer, Personalization, Music Understanding",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_personalization_rewards": {
+      "first_seen": "2026-06-13T20:20:20.635853",
+      "title": "Senior Machine Learning Engineer, Personalization, Rewards",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_machine_learning_engineer_policy_safety": {
+      "first_seen": "2026-06-13T20:20:20.635887",
+      "title": "Senior Machine Learning Engineer, Policy & Safety",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_staff_machine_learning_engineer_content_platform": {
+      "first_seen": "2026-06-13T20:20:20.635909",
+      "title": "Senior Staff Machine Learning Engineer, Content Platform",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_senior_staff_machine_learning_engineer_content_policy_safety": {
+      "first_seen": "2026-06-13T20:20:20.635919",
+      "title": "Senior Staff Machine Learning Engineer, Content Policy & Safety",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_staff_machine_learning_engineer_content_intelligence": {
+      "first_seen": "2026-06-13T20:20:20.635881",
+      "title": "Staff Machine Learning Engineer, Content Intelligence",
+      "url": "https://www.lifeatspotify.com/jobs"
+    },
+    "spotify_staff_machine_learning_engineer_policy_safety": {
+      "first_seen": "2026-06-13T20:20:20.635884",
+      "title": "Staff Machine Learning Engineer, Policy & Safety",
+      "url": "https://www.lifeatspotify.com/jobs"
     }
   },
   "Watershed": {
