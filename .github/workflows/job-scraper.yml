@@ -42,9 +42,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
+          STASHED=0
+          if ! git diff --quiet || ! git diff --cached --quiet; then
+            git stash --include-untracked
+            STASHED=1
+          fi
           git pull --rebase
-          git stash pop
+          if [ "$STASHED" = "1" ]; then
+            git stash pop
+          fi
           git add data/seen_jobs.json
           git diff --staged --quiet || git commit -m "chore: update seen jobs cache [skip ci]"
           git push
