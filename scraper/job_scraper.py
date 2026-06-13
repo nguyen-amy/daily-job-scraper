@@ -172,7 +172,17 @@ def fetch_playwright_jobs(careers_url: str, company_name: str, load_more_selecto
                 seen_titles.add(text)
                 href = el.get_attribute("href") or ""
                 if not href:
-                    href = el.evaluate("el => el.closest('a')?.href || ''")
+                    href = el.evaluate(
+                        """el => {
+                            const a = el.closest('a');
+                            if (a?.href) return a.href;
+                            const inner = el.querySelector('a[href]');
+                            if (inner?.href) return inner.href;
+                            const card = el.closest('li, tr, article, [class*="card"], [class*="job"], [class*="result"], [class*="posting"]');
+                            const link = card?.querySelector('a[href]');
+                            return link?.href || '';
+                        }"""
+                    )
                 if href and not href.startswith("http"):
                     href = urljoin(careers_url, href)
                 slug = re.sub(r"[^a-z0-9]+", "_", text.lower())[:60]
