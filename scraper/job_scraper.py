@@ -178,7 +178,9 @@ def fetch_playwright_jobs(careers_url: str, company_name: str, load_more_selecto
                             if (a?.href) return a.href;
                             const inner = el.querySelector('a[href]');
                             if (inner?.href) return inner.href;
-                            const card = el.closest('li, tr, article, [class*="card"], [class*="job"], [class*="result"], [class*="posting"]');
+                            const roleLink = el.closest('[role="link"][data-info]');
+                            if (roleLink) return '/jobs/' + roleLink.getAttribute('data-info');
+                            const card = el.closest('li, tr, article, [class*="card"], [class*="job"], [class*="result"], [class*="posting"], [class*="entry"]');
                             const link = card?.querySelector('a[href]');
                             return link?.href || '';
                         }"""
