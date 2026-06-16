@@ -1,5 +1,15 @@
 {
   "Apple": {
+    "apple_aiml_data_scientist_evaluation": {
+      "first_seen": "2026-06-16T04:48:13.627140",
+      "title": "AIML - Data Scientist, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200668520-3337/aiml-data-scientist-evaluation?team=MLAI"
+    },
+    "apple_aiml_data_scientist_evaluation_machine_learning_and_ai_jun_1": {
+      "first_seen": "2026-06-16T04:48:13.627122",
+      "title": "AIML - Data Scientist, Evaluation\nMachine Learning and AI\nJun 16, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200668520-3337/aiml-data-scientist-evaluation?team=MLAI"
+    },
     "apple_aiml_machine_learning_engineer_foundation_models": {
       "first_seen": "2026-06-13T20:20:31.804519",
       "title": "AIML - Machine Learning Engineer, Foundation Models",
@@ -9,6 +19,16 @@
       "first_seen": "2026-06-13T20:20:31.804469",
       "title": "AIML - Machine Learning Engineer, Foundation Models\nMachine Learning and AI\nJun 12, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI"
+    },
+    "apple_data_scientist_employee_experience_productivity": {
+      "first_seen": "2026-06-16T04:48:13.627154",
+      "title": "Data Scientist, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200668306-3956/data-scientist-employee-experience-productivity?team=SFTWR"
+    },
+    "apple_data_scientist_employee_experience_productivity_software_and": {
+      "first_seen": "2026-06-16T04:48:13.627150",
+      "title": "Data Scientist, Employee Experience & Productivity\nSoftware and Services\nJun 16, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200668306-3956/data-scientist-employee-experience-productivity?team=SFTWR"
     },
     "apple_machine_learning_engineer_foundation_model_services": {
       "first_seen": "2026-06-15T21:09:08.082746",
@@ -30,19 +50,49 @@
       "title": "Machine Learning Engineer - People Analytics\nCorporate Functions\nJun 14, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200665705-0836/machine-learning-engineer-people-analytics?team=CORSV"
     },
+    "apple_senior_ai_engineer": {
+      "first_seen": "2026-06-16T04:48:13.627177",
+      "title": "Senior AI Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200668239-0157/senior-ai-engineer?team=SLDEV"
+    },
+    "apple_senior_ai_engineer_sales_and_business_development_jun_15_202": {
+      "first_seen": "2026-06-16T04:48:13.627173",
+      "title": "Senior AI Engineer\nSales and Business Development\nJun 15, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200668239-0157/senior-ai-engineer?team=SLDEV"
+    },
     "apple_service_reliability_engineer_g_a_solutions_engineering": {
       "first_seen": "2026-06-15T21:09:08.082729",
       "title": "Service Reliability Engineer, G&A Solutions Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653239-0157/service-reliability-engineer-g-a-solutions-engineering?team=SFTWR"
+    },
+    "apple_service_reliability_engineer_g_a_solutions_engineering_gse_": {
+      "first_seen": "2026-06-16T04:48:13.627167",
+      "title": "Service Reliability Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200653239-0157/service-reliability-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "apple_service_reliability_engineer_g_a_solutions_engineering_gse_s": {
+      "first_seen": "2026-06-16T04:48:13.627163",
+      "title": "Service Reliability Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJun 15, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200653239-0157/service-reliability-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     },
     "apple_service_reliability_engineer_g_a_solutions_engineering_softw": {
       "first_seen": "2026-06-15T21:09:08.082711",
       "title": "Service Reliability Engineer, G&A Solutions Engineering\nSoftware and Services\nJun 15, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200653239-0157/service-reliability-engineer-g-a-solutions-engineering?team=SFTWR"
     },
+    "apple_shareaiml_data_scientist_evaluation_200668520_3337": {
+      "first_seen": "2026-06-16T04:48:13.627146",
+      "title": "ShareAIML - Data Scientist, Evaluation 200668520-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_shareaiml_machine_learning_engineer_foundation_models_200633": {
       "first_seen": "2026-06-13T20:20:31.804525",
       "title": "ShareAIML - Machine Learning Engineer, Foundation Models 200633262-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharedata_scientist_employee_experience_productivity_2006683": {
+      "first_seen": "2026-06-16T04:48:13.627159",
+      "title": "ShareData Scientist, Employee Experience & Productivity 200668306-3956",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_foundation_model_services_200": {
@@ -53,6 +103,16 @@
     "apple_sharemachine_learning_engineer_people_analytics_200665705_08": {
       "first_seen": "2026-06-14T19:42:05.740487",
       "title": "ShareMachine Learning Engineer - People Analytics 200665705-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_ai_engineer_200668239_0157": {
+      "first_seen": "2026-06-16T04:48:13.627183",
+      "title": "ShareSenior AI Engineer 200668239-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_ai_engineer_200668239_0836": {
+      "first_seen": "2026-06-16T04:48:13.627188",
+      "title": "ShareSenior AI Engineer 200668239-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareservice_reliability_engineer_g_a_solutions_engineering_": {
