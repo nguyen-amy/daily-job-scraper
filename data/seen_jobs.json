@@ -30,6 +30,16 @@
       "title": "Data Scientist, Employee Experience & Productivity\nSoftware and Services\nJun 16, 2026\nLocation\nSunnyvale\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668306-3956/data-scientist-employee-experience-productivity?team=SFTWR"
     },
+    "apple_devops_engineer_g_a_solutions_engineering_gse_": {
+      "first_seen": "2026-06-16T20:56:42.438645",
+      "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200667899-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "apple_devops_engineer_g_a_solutions_engineering_gse_software_and_s": {
+      "first_seen": "2026-06-16T20:56:42.438642",
+      "title": "DevOps Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJun 16, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200667899-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
     "apple_machine_learning_engineer_foundation_model_services": {
       "first_seen": "2026-06-15T21:09:08.082746",
       "title": "Machine Learning Engineer, Foundation Model Services",
@@ -49,6 +59,16 @@
       "first_seen": "2026-06-14T19:42:05.740463",
       "title": "Machine Learning Engineer - People Analytics\nCorporate Functions\nJun 14, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200665705-0836/machine-learning-engineer-people-analytics?team=CORSV"
+    },
+    "apple_machine_learning_engineer_web_indexing_team": {
+      "first_seen": "2026-06-16T20:56:42.438633",
+      "title": "Machine Learning Engineer, Web Indexing Team",
+      "url": "https://jobs.apple.com/en-us/details/200668682-3760/machine-learning-engineer-web-indexing-team?team=MLAI"
+    },
+    "apple_machine_learning_engineer_web_indexing_team_machine_learning": {
+      "first_seen": "2026-06-16T20:56:42.438617",
+      "title": "Machine Learning Engineer, Web Indexing Team\nMachine Learning and AI\nJun 16, 2026\nLocation\nSanta Clara\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200668682-3760/machine-learning-engineer-web-indexing-team?team=MLAI"
     },
     "apple_senior_ai_engineer": {
       "first_seen": "2026-06-16T04:48:13.627177",
@@ -95,6 +115,11 @@
       "title": "ShareData Scientist, Employee Experience & Productivity 200668306-3956",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedevops_engineer_g_a_solutions_engineering_gse_200667899": {
+      "first_seen": "2026-06-16T20:56:42.438647",
+      "title": "ShareDevOps Engineer, G&A Solutions Engineering (GSE) 200667899-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharemachine_learning_engineer_foundation_model_services_200": {
       "first_seen": "2026-06-15T21:09:08.082751",
       "title": "ShareMachine Learning Engineer, Foundation Model Services 200664569-3760",
@@ -103,6 +128,11 @@
     "apple_sharemachine_learning_engineer_people_analytics_200665705_08": {
       "first_seen": "2026-06-14T19:42:05.740487",
       "title": "ShareMachine Learning Engineer - People Analytics 200665705-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_engineer_web_indexing_team_200668682_3": {
+      "first_seen": "2026-06-16T20:56:42.438638",
+      "title": "ShareMachine Learning Engineer, Web Indexing Team 200668682-3760",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_ai_engineer_200668239_0157": {
