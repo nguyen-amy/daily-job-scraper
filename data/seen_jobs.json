@@ -80,6 +80,11 @@
       "title": "Machine Learning Engineer, Web Indexing Team\nMachine Learning and AI\nJun 16, 2026\nLocation\nSanta Clara\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668682-3760/machine-learning-engineer-web-indexing-team?team=MLAI"
     },
+    "apple_manager_portfolio_delivery_operations_g_a_solutions_engineer": {
+      "first_seen": "2026-06-17T20:19:33.226192",
+      "title": "Manager, Portfolio Delivery & Operations - G&A Solutions Engineering\nSoftware and Services\nJun 17, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200667839-3956/manager-portfolio-delivery-operations-g-a-solutions-engineering?team=SFTWR"
+    },
     "apple_senior_ai_engineer": {
       "first_seen": "2026-06-16T04:48:13.627177",
       "title": "Senior AI Engineer",
@@ -89,6 +94,11 @@
       "first_seen": "2026-06-16T04:48:13.627173",
       "title": "Senior AI Engineer\nSales and Business Development\nJun 15, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668239-0157/senior-ai-engineer?team=SLDEV"
+    },
+    "apple_senior_computer_vision_machine_learning_engineer_3d_vision_p": {
+      "first_seen": "2026-06-17T20:19:33.226231",
+      "title": "Senior Computer Vision / Machine Learning Engineer - 3D Vision & Perception\nMachine Learning and AI\nJun 17, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200668959-3956/senior-computer-vision-machine-learning-engineer-3d-vision-perception?team=MLAI"
     },
     "apple_service_reliability_engineer_g_a_solutions_engineering": {
       "first_seen": "2026-06-15T21:09:08.082729",
@@ -150,6 +160,11 @@
       "title": "ShareMachine Learning Engineer, Web Indexing Team 200668682-3760",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharemanager_portfolio_delivery_operations_g_a_solutions_eng": {
+      "first_seen": "2026-06-17T20:19:33.226208",
+      "title": "ShareManager, Portfolio Delivery & Operations - G&A Solutions Engineering 200667839-3956",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharesenior_ai_engineer_200668239_0157": {
       "first_seen": "2026-06-16T04:48:13.627183",
       "title": "ShareSenior AI Engineer 200668239-0157",
@@ -160,10 +175,35 @@
       "title": "ShareSenior AI Engineer 200668239-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesenior_computer_vision_machine_learning_engineer_3d_vis": {
+      "first_seen": "2026-06-17T20:19:33.226236",
+      "title": "ShareSenior Computer Vision / Machine Learning Engineer - 3D Vision & Perception 200668959-3956",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_shareservice_reliability_engineer_g_a_solutions_engineering_": {
       "first_seen": "2026-06-15T21:09:08.082735",
       "title": "ShareService Reliability Engineer, G&A Solutions Engineering 200653239-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesr_machine_learning_engineer_finance_200647728_0157": {
+      "first_seen": "2026-06-17T20:19:33.226222",
+      "title": "ShareSr. Machine Learning Engineer - Finance 200647728-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesr_machine_learning_engineer_finance_200647728_0836": {
+      "first_seen": "2026-06-17T20:19:33.226227",
+      "title": "ShareSr. Machine Learning Engineer - Finance 200647728-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sr_machine_learning_engineer_finance": {
+      "first_seen": "2026-06-17T20:19:33.226218",
+      "title": "Sr. Machine Learning Engineer - Finance",
+      "url": "https://jobs.apple.com/en-us/details/200647728-0157/sr-machine-learning-engineer-finance?team=CORSV"
+    },
+    "apple_sr_machine_learning_engineer_finance_corporate_functions_jun": {
+      "first_seen": "2026-06-17T20:19:33.226213",
+      "title": "Sr. Machine Learning Engineer - Finance\nCorporate Functions\nJun 17, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200647728-0157/sr-machine-learning-engineer-finance?team=CORSV"
     }
   },
   "Figma": {
