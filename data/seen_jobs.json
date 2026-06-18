@@ -40,6 +40,11 @@
       "title": "Data Engineer - Battery Data Platform & AI\nHardware\nJun 17, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668472-0836/data-engineer-battery-data-platform-ai?team=HRDWR"
     },
+    "apple_data_scientist": {
+      "first_seen": "2026-06-18T20:37:41.305044",
+      "title": "Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200669127-0670/data-scientist?team=MLAI"
+    },
     "apple_data_scientist_ai_ml_model_quality": {
       "first_seen": "2026-06-18T04:21:51.997544",
       "title": "Data Scientist, AI/ML Model Quality",
@@ -59,6 +64,11 @@
       "first_seen": "2026-06-16T04:48:13.627150",
       "title": "Data Scientist, Employee Experience & Productivity\nSoftware and Services\nJun 16, 2026\nLocation\nSunnyvale\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668306-3956/data-scientist-employee-experience-productivity?team=SFTWR"
+    },
+    "apple_data_scientist_machine_learning_and_ai_jun_18_2026_location_": {
+      "first_seen": "2026-06-18T20:37:41.305029",
+      "title": "Data Scientist\nMachine Learning and AI\nJun 18, 2026\nLocation\nCulver City\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200669127-0670/data-scientist?team=MLAI"
     },
     "apple_devops_engineer_g_a_solutions_engineering_gse_": {
       "first_seen": "2026-06-16T20:56:42.438645",
@@ -158,6 +168,11 @@
     "apple_sharedata_engineer_battery_data_platform_ai_200668472_0836": {
       "first_seen": "2026-06-18T04:21:51.997564",
       "title": "ShareData Engineer - Battery Data Platform & AI 200668472-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharedata_scientist_200669127_0670": {
+      "first_seen": "2026-06-18T20:37:41.305048",
+      "title": "ShareData Scientist 200669127-0670",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharedata_scientist_ai_ml_model_quality_200667346_0157": {
