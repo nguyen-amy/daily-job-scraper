@@ -40,6 +40,16 @@
       "title": "AIML - Machine Learning Engineer, Foundation Models\nMachine Learning and AI\nJun 12, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI"
     },
+    "apple_aiml_sr_data_scientist_evaluation": {
+      "first_seen": "2026-06-23T03:55:43.561219",
+      "title": "AIML - Sr Data Scientist, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200638769-3337/aiml-sr-data-scientist-evaluation?team=MLAI"
+    },
+    "apple_aiml_sr_data_scientist_evaluation_machine_learning_and_ai_ju": {
+      "first_seen": "2026-06-23T03:55:43.561201",
+      "title": "AIML - Sr Data Scientist, Evaluation\nMachine Learning and AI\nJun 23, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200638769-3337/aiml-sr-data-scientist-evaluation?team=MLAI"
+    },
     "apple_data_engineer_battery_data_platform_ai": {
       "first_seen": "2026-06-18T04:21:51.997562",
       "title": "Data Engineer - Battery Data Platform & AI",
@@ -188,6 +198,11 @@
     "apple_shareaiml_machine_learning_engineer_foundation_models_200633": {
       "first_seen": "2026-06-13T20:20:31.804525",
       "title": "ShareAIML - Machine Learning Engineer, Foundation Models 200633262-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareaiml_sr_data_scientist_evaluation_200638769_3337": {
+      "first_seen": "2026-06-23T03:55:43.561223",
+      "title": "ShareAIML - Sr Data Scientist, Evaluation 200638769-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharedata_engineer_battery_data_platform_ai_200668472_0836": {
