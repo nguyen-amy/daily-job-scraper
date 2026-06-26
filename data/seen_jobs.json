@@ -210,6 +210,16 @@
       "title": "Senior Machine Learning Engineer\nMachine Learning and AI\nJun 25, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669181-3337/senior-machine-learning-engineer?team=MLAI"
     },
+    "apple_senior_ml_engineer": {
+      "first_seen": "2026-06-26T19:55:19.365725",
+      "title": "Senior ML Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200670136-3337/senior-ml-engineer?team=SFTWR"
+    },
+    "apple_senior_ml_engineer_software_and_services_jun_26_2026_locatio": {
+      "first_seen": "2026-06-26T19:55:19.365722",
+      "title": "Senior ML Engineer\nSoftware and Services\nJun 26, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670136-3337/senior-ml-engineer?team=SFTWR"
+    },
     "apple_service_reliability_engineer_g_a_solutions_engineering": {
       "first_seen": "2026-06-15T21:09:08.082729",
       "title": "Service Reliability Engineer, G&A Solutions Engineering",
@@ -258,6 +268,11 @@
     "apple_shareaiml_sr_data_scientist_evaluation_200638769_3337": {
       "first_seen": "2026-06-23T03:55:43.561223",
       "title": "ShareAIML - Sr Data Scientist, Evaluation 200638769-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareaiml_sr_data_scientist_evaluation_200669902_0836": {
+      "first_seen": "2026-06-26T19:55:19.365731",
+      "title": "ShareAIML - Sr Data Scientist, Evaluation 200669902-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharedata_engineer_battery_data_platform_ai_200668472_0836": {
@@ -360,9 +375,19 @@
       "title": "ShareSenior Machine Learning Engineer, Analytics & Data Engineering 200669664-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesenior_ml_engineer_200670136_3337": {
+      "first_seen": "2026-06-26T19:55:19.365728",
+      "title": "ShareSenior ML Engineer 200670136-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_shareservice_reliability_engineer_g_a_solutions_engineering_": {
       "first_seen": "2026-06-15T21:09:08.082735",
       "title": "ShareService Reliability Engineer, G&A Solutions Engineering 200653239-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesr_applied_ml_engineer_apple_services_localization_engi": {
+      "first_seen": "2026-06-26T19:55:19.365718",
+      "title": "ShareSr. Applied ML Engineer, Apple Services Localization Engineering 200670157-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesr_machine_learning_engineer_finance_200647728_0157": {
@@ -374,6 +399,11 @@
       "first_seen": "2026-06-17T20:19:33.226227",
       "title": "ShareSr. Machine Learning Engineer - Finance 200647728-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sr_applied_ml_engineer_apple_services_localization_engineeri": {
+      "first_seen": "2026-06-26T19:55:19.365703",
+      "title": "Sr. Applied ML Engineer, Apple Services Localization Engineering\nSoftware and Services\nJun 26, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670157-3337/sr-applied-ml-engineer-apple-services-localization-engineering?team=SFTWR"
     },
     "apple_sr_machine_learning_engineer_finance": {
       "first_seen": "2026-06-17T20:19:33.226218",
