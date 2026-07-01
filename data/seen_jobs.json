@@ -135,6 +135,16 @@
       "title": "DevOps Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJun 16, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200667899-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     },
+    "apple_health_sensing_ml_engineer": {
+      "first_seen": "2026-07-01T04:15:14.222042",
+      "title": "Health Sensing ML Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR"
+    },
+    "apple_health_sensing_ml_engineer_hardware_jun_30_2026_location_cup": {
+      "first_seen": "2026-07-01T04:15:14.222029",
+      "title": "Health Sensing ML Engineer\nHardware\nJun 30, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR"
+    },
     "apple_machine_learning_engineer_apple_search_knowledge_platforms": {
       "first_seen": "2026-06-23T20:11:20.601987",
       "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
@@ -385,6 +395,11 @@
       "title": "ShareDevOps Engineer, G&A Solutions Engineering (GSE) 200667899-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharehealth_sensing_ml_engineer_200670408_0836": {
+      "first_seen": "2026-07-01T04:15:14.222046",
+      "title": "ShareHealth Sensing ML Engineer 200670408-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharemachine_learning_engineer_apple_search_knowledge_platfo": {
       "first_seen": "2026-06-23T20:11:20.601991",
       "title": "ShareMachine Learning Engineer, Apple Search & Knowledge Platforms 200669635-3760",
@@ -490,6 +505,11 @@
       "title": "ShareSr. Applied ML Engineer, Apple Services Localization Engineering 200670157-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesr_machine_learning_engineer_apple_news_200670243_0836": {
+      "first_seen": "2026-07-01T04:15:14.222060",
+      "title": "ShareSr. Machine Learning Engineer - Apple News 200670243-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharesr_machine_learning_engineer_finance_200647728_0157": {
       "first_seen": "2026-06-17T20:19:33.226222",
       "title": "ShareSr. Machine Learning Engineer - Finance 200647728-0157",
@@ -504,6 +524,16 @@
       "first_seen": "2026-06-26T19:55:19.365703",
       "title": "Sr. Applied ML Engineer, Apple Services Localization Engineering\nSoftware and Services\nJun 26, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670157-3337/sr-applied-ml-engineer-apple-services-localization-engineering?team=SFTWR"
+    },
+    "apple_sr_machine_learning_engineer_apple_news": {
+      "first_seen": "2026-07-01T04:15:14.222052",
+      "title": "Sr. Machine Learning Engineer - Apple News",
+      "url": "https://jobs.apple.com/en-us/details/200670243-0836/sr-machine-learning-engineer-apple-news?team=SFTWR"
+    },
+    "apple_sr_machine_learning_engineer_apple_news_software_and_service": {
+      "first_seen": "2026-07-01T04:15:14.222049",
+      "title": "Sr. Machine Learning Engineer - Apple News\nSoftware and Services\nJun 30, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670243-0836/sr-machine-learning-engineer-apple-news?team=SFTWR"
     },
     "apple_sr_machine_learning_engineer_finance": {
       "first_seen": "2026-06-17T20:19:33.226218",
