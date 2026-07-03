@@ -130,6 +130,16 @@
       "title": "Data Scientist - Strategic Security Risk\nSoftware and Services\nJun 24, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669799-3337/data-scientist-strategic-security-risk?team=SFTWR"
     },
+    "apple_demographic_data_scientist": {
+      "first_seen": "2026-07-03T03:37:48.175855",
+      "title": "Demographic Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200670761-0157/demographic-data-scientist?team=MLAI"
+    },
+    "apple_demographic_data_scientist_machine_learning_and_ai_jul_02_20": {
+      "first_seen": "2026-07-03T03:37:48.175850",
+      "title": "Demographic Data Scientist\nMachine Learning and AI\nJul 02, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670761-0157/demographic-data-scientist?team=MLAI"
+    },
     "apple_devops_engineer_g_a_solutions_engineering_gse_": {
       "first_seen": "2026-06-16T20:56:42.438645",
       "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
@@ -264,6 +274,16 @@
       "first_seen": "2026-07-01T09:56:05.229990",
       "title": "Manager, Product Management Data Scientist\nMarketing\nJul 01, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669478-0836/manager-product-management-data-scientist?team=MKTG"
+    },
+    "apple_ml_engineer_apple_foundation_models": {
+      "first_seen": "2026-07-03T03:37:48.175840",
+      "title": "ML Engineer, Apple Foundation Models",
+      "url": "https://jobs.apple.com/en-us/details/200670922-0836/ml-engineer-apple-foundation-models?team=MLAI"
+    },
+    "apple_ml_engineer_apple_foundation_models_machine_learning_and_ai_": {
+      "first_seen": "2026-07-03T03:37:48.175822",
+      "title": "ML Engineer, Apple Foundation Models\nMachine Learning and AI\nJul 02, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670922-0836/ml-engineer-apple-foundation-models?team=MLAI"
     },
     "apple_senior_ai_engineer": {
       "first_seen": "2026-06-16T04:48:13.627177",
@@ -445,6 +465,11 @@
       "title": "ShareData Scientist - Strategic Security Risk 200669799-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedemographic_data_scientist_200670761_0157": {
+      "first_seen": "2026-07-03T03:37:48.175859",
+      "title": "ShareDemographic Data Scientist 200670761-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharedevops_engineer_g_a_solutions_engineering_gse_200667899": {
       "first_seen": "2026-06-16T20:56:42.438647",
       "title": "ShareDevOps Engineer, G&A Solutions Engineering (GSE) 200667899-0157",
@@ -528,6 +553,11 @@
     "apple_sharemanager_product_management_data_scientist_200669478_083": {
       "first_seen": "2026-07-01T09:56:05.230006",
       "title": "ShareManager, Product Management Data Scientist 200669478-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareml_engineer_apple_foundation_models_200670922_0836": {
+      "first_seen": "2026-07-03T03:37:48.175846",
+      "title": "ShareML Engineer, Apple Foundation Models 200670922-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_ai_engineer_200668239_0157": {
