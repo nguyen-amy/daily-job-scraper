@@ -60,6 +60,16 @@
       "title": "AIML - Sr Data Scientist, Evaluation\nMachine Learning and AI\nJun 23, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200638769-3337/aiml-sr-data-scientist-evaluation?team=MLAI"
     },
+    "apple_applied_ai_engineer": {
+      "first_seen": "2026-07-08T03:15:23.277643",
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI"
+    },
+    "apple_applied_ai_engineer_machine_learning_and_ai_jul_07_2026_loca": {
+      "first_seen": "2026-07-08T03:15:23.277637",
+      "title": "Applied AI Engineer\nMachine Learning and AI\nJul 07, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI"
+    },
     "apple_camera_hardware_data_engineer": {
       "first_seen": "2026-07-07T03:47:17.162657",
       "title": "Camera Hardware Data Engineer",
@@ -345,6 +355,16 @@
       "title": "Senior Computer Vision / Machine Learning Engineer - 3D Vision & Perception\nMachine Learning and AI\nJun 17, 2026\nLocation\nSunnyvale\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668959-3956/senior-computer-vision-machine-learning-engineer-3d-vision-perception?team=MLAI"
     },
+    "apple_senior_data_engineer_battery_data_platform_ai": {
+      "first_seen": "2026-07-08T03:15:23.277626",
+      "title": "Senior Data Engineer, Battery Data Platform & AI",
+      "url": "https://jobs.apple.com/en-us/details/200671480-0836/senior-data-engineer-battery-data-platform-ai?team=HRDWR"
+    },
+    "apple_senior_data_engineer_battery_data_platform_ai_hardware_jul_0": {
+      "first_seen": "2026-07-08T03:15:23.277608",
+      "title": "Senior Data Engineer, Battery Data Platform & AI\nHardware\nJul 08, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200671480-0836/senior-data-engineer-battery-data-platform-ai?team=HRDWR"
+    },
     "apple_senior_machine_learning_engineer": {
       "first_seen": "2026-06-25T20:06:30.284380",
       "title": "Senior Machine Learning Engineer",
@@ -453,6 +473,11 @@
     "apple_shareaiml_sr_data_scientist_evaluation_200669902_0836": {
       "first_seen": "2026-06-26T19:55:19.365731",
       "title": "ShareAIML - Sr Data Scientist, Evaluation 200669902-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareapplied_ai_engineer_200670689_0836": {
+      "first_seen": "2026-07-08T03:15:23.277647",
+      "title": "ShareApplied AI Engineer 200670689-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharecamera_hardware_data_engineer_200670678_0836": {
@@ -648,6 +673,11 @@
     "apple_sharesenior_computer_vision_machine_learning_engineer_3d_vis": {
       "first_seen": "2026-06-17T20:19:33.226236",
       "title": "ShareSenior Computer Vision / Machine Learning Engineer - 3D Vision & Perception 200668959-3956",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_data_engineer_battery_data_platform_ai_200671480": {
+      "first_seen": "2026-07-08T03:15:23.277632",
+      "title": "ShareSenior Data Engineer, Battery Data Platform & AI 200671480-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_machine_learning_engineer_200669181_3337": {
