@@ -60,6 +60,11 @@
       "title": "AIML - Machine Learning Engineer, Foundation Models\nMachine Learning and AI\nJun 12, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI"
     },
+    "apple_aiml_machine_learning_engineer_red_teaming_responsible_ai_an": {
+      "first_seen": "2026-07-14T19:24:51.758641",
+      "title": "AIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety\nMachine Learning and AI\nJul 14, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200652521-3401/aiml-machine-learning-engineer-red-teaming-responsible-ai-and-safety?team=MLAI"
+    },
     "apple_aiml_sr_data_scientist_evaluation": {
       "first_seen": "2026-06-23T03:55:43.561219",
       "title": "AIML - Sr Data Scientist, Evaluation",
@@ -230,6 +235,11 @@
       "title": "Health Sensing ML Engineer\nHardware\nJun 30, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR"
     },
+    "apple_it_support_data_scientist_employee_experience_productivity_i": {
+      "first_seen": "2026-07-14T19:24:51.758692",
+      "title": "IT Support Data Scientist, Employee Experience & Productivity, IS&T\nSoftware and Services\nJul 14, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200669063-3956/it-support-data-scientist-employee-experience-productivity-is-t?team=SFTWR"
+    },
     "apple_lead_ai_ml_engineer_genai_agentic_systems_icloud": {
       "first_seen": "2026-07-07T03:47:17.162691",
       "title": "Lead AI/ML Engineer (GenAI & Agentic Systems)-iCloud",
@@ -289,6 +299,16 @@
       "first_seen": "2026-06-14T19:42:05.740463",
       "title": "Machine Learning Engineer - People Analytics\nCorporate Functions\nJun 14, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200665705-0836/machine-learning-engineer-people-analytics?team=CORSV"
+    },
+    "apple_machine_learning_engineer_platform_icloud_mail_intelligence": {
+      "first_seen": "2026-07-14T19:24:51.758683",
+      "title": "Machine Learning Engineer Platform - iCloud Mail Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200663254-3543/machine-learning-engineer-platform-icloud-mail-intelligence?team=MLAI"
+    },
+    "apple_machine_learning_engineer_platform_icloud_mail_intelligence_": {
+      "first_seen": "2026-07-14T19:24:51.758677",
+      "title": "Machine Learning Engineer Platform - iCloud Mail Intelligence\nMachine Learning and AI\nJul 14, 2026\nLocation\nSan Diego\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200663254-3543/machine-learning-engineer-platform-icloud-mail-intelligence?team=MLAI"
     },
     "apple_machine_learning_engineer_search_": {
       "first_seen": "2026-06-22T20:52:50.763927",
@@ -410,6 +430,11 @@
       "title": "Senior Machine Learning Engineer, Analytics & Data Engineering\nMachine Learning and AI\nJun 25, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669664-3337/senior-machine-learning-engineer-analytics-data-engineering?team=MLAI"
     },
+    "apple_senior_machine_learning_engineer_developer_product_analytics": {
+      "first_seen": "2026-07-14T19:24:51.758667",
+      "title": "Senior Machine Learning Engineer, Developer Product Analytics\nSoftware and Services\nJul 14, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200672402-0836/senior-machine-learning-engineer-developer-product-analytics?team=SFTWR"
+    },
     "apple_senior_machine_learning_engineer_machine_learning_and_ai_jun": {
       "first_seen": "2026-06-25T20:06:30.284365",
       "title": "Senior Machine Learning Engineer\nMachine Learning and AI\nJun 25, 2026\nLocation\nSeattle\nActions",
@@ -498,6 +523,11 @@
     "apple_shareaiml_machine_learning_engineer_foundation_models_200633": {
       "first_seen": "2026-06-13T20:20:31.804525",
       "title": "ShareAIML - Machine Learning Engineer, Foundation Models 200633262-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareaiml_machine_learning_engineer_red_teaming_responsible_": {
+      "first_seen": "2026-07-14T19:24:51.758660",
+      "title": "ShareAIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety 200652521-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareaiml_sr_data_scientist_evaluation_200638769_3337": {
@@ -620,6 +650,11 @@
       "title": "ShareHealth Sensing ML Engineer 200670408-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_shareit_support_data_scientist_employee_experience_productiv": {
+      "first_seen": "2026-07-14T19:24:51.758697",
+      "title": "ShareIT Support Data Scientist, Employee Experience & Productivity, IS&T 200669063-3956",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharelead_ai_ml_engineer_genai_agentic_systems_icloud_200670": {
       "first_seen": "2026-07-07T03:47:17.162695",
       "title": "ShareLead AI/ML Engineer (GenAI & Agentic Systems)-iCloud 200670755-0670",
@@ -668,6 +703,11 @@
     "apple_sharemachine_learning_engineer_people_analytics_200665705_08": {
       "first_seen": "2026-06-14T19:42:05.740487",
       "title": "ShareMachine Learning Engineer - People Analytics 200665705-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_engineer_platform_icloud_mail_intellig": {
+      "first_seen": "2026-07-14T19:24:51.758687",
+      "title": "ShareMachine Learning Engineer Platform - iCloud Mail Intelligence 200663254-3543",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_search_200669144_0836": {
@@ -748,6 +788,11 @@
     "apple_sharesenior_machine_learning_engineer_analytics_data_enginee": {
       "first_seen": "2026-06-26T04:04:18.288167",
       "title": "ShareSenior Machine Learning Engineer, Analytics & Data Engineering 200669664-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_machine_learning_engineer_developer_product_anal": {
+      "first_seen": "2026-07-14T19:24:51.758673",
+      "title": "ShareSenior Machine Learning Engineer, Developer Product Analytics 200672402-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_machine_learning_engineer_model_inference_200670": {
