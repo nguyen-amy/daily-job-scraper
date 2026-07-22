@@ -240,6 +240,16 @@
       "title": "Finance Data Scientist - Enablement\nMachine Learning and AI\nJul 01, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=MLAI"
     },
+    "apple_gpu_ml_engineer": {
+      "first_seen": "2026-07-22T19:25:52.927568",
+      "title": "GPU ML Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200672759-0836/gpu-ml-engineer?team=SFTWR"
+    },
+    "apple_gpu_ml_engineer_software_and_services_jul_22_2026_location_c": {
+      "first_seen": "2026-07-22T19:25:52.927563",
+      "title": "GPU ML Engineer\nSoftware and Services\nJul 22, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200672759-0836/gpu-ml-engineer?team=SFTWR"
+    },
     "apple_health_sensing_ml_engineer": {
       "first_seen": "2026-07-01T04:15:14.222042",
       "title": "Health Sensing ML Engineer",
@@ -419,6 +429,16 @@
       "first_seen": "2026-07-03T03:37:48.175822",
       "title": "ML Engineer, Apple Foundation Models\nMachine Learning and AI\nJul 02, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670922-0836/ml-engineer-apple-foundation-models?team=MLAI"
+    },
+    "apple_on_device_ml_engineering_manager_tools_services_": {
+      "first_seen": "2026-07-22T19:25:52.927550",
+      "title": "On-device ML Engineering Manager (Tools & Services)",
+      "url": "https://jobs.apple.com/en-us/details/200672748-3337/on-device-ml-engineering-manager-tools-services?team=MLAI"
+    },
+    "apple_on_device_ml_engineering_manager_tools_services_machine_lear": {
+      "first_seen": "2026-07-22T19:25:52.927534",
+      "title": "On-device ML Engineering Manager (Tools & Services)\nMachine Learning and AI\nJul 22, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200672748-3337/on-device-ml-engineering-manager-tools-services?team=MLAI"
     },
     "apple_senior_ai_and_machine_learning_engineer_maps_services_evalua": {
       "first_seen": "2026-07-21T02:57:13.648150",
@@ -710,6 +730,11 @@
       "title": "ShareFinance Data Scientist - Enablement 200659972-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharegpu_ml_engineer_200672759_0836": {
+      "first_seen": "2026-07-22T19:25:52.927573",
+      "title": "ShareGPU ML Engineer 200672759-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharehealth_sensing_ml_engineer_200670408_0836": {
       "first_seen": "2026-07-01T04:15:14.222046",
       "title": "ShareHealth Sensing ML Engineer 200670408-0836",
@@ -833,6 +858,11 @@
     "apple_shareml_engineer_apple_foundation_models_200670922_0836": {
       "first_seen": "2026-07-03T03:37:48.175846",
       "title": "ShareML Engineer, Apple Foundation Models 200670922-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareon_device_ml_engineering_manager_tools_services_2006727": {
+      "first_seen": "2026-07-22T19:25:52.927557",
+      "title": "ShareOn-device ML Engineering Manager (Tools & Services) 200672748-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_ai_and_machine_learning_engineer_maps_services_e": {
