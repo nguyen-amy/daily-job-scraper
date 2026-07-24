@@ -535,6 +535,16 @@
       "title": "Senior ML Engineer\nSoftware and Services\nJun 26, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670136-3337/senior-ml-engineer?team=SFTWR"
     },
+    "apple_senior_staff_machine_learning_engineer": {
+      "first_seen": "2026-07-24T19:34:44.386987",
+      "title": "Senior / Staff Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200674140-3337/senior-staff-machine-learning-engineer?team=SFTWR"
+    },
+    "apple_senior_staff_machine_learning_engineer_software_and_services": {
+      "first_seen": "2026-07-24T19:34:44.386970",
+      "title": "Senior / Staff Machine Learning Engineer\nSoftware and Services\nJul 24, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200674140-3337/senior-staff-machine-learning-engineer?team=SFTWR"
+    },
     "apple_service_reliability_engineer_g_a_solutions_engineering": {
       "first_seen": "2026-06-15T21:09:08.082729",
       "title": "Service Reliability Engineer, G&A Solutions Engineering",
@@ -933,6 +943,11 @@
     "apple_sharesenior_ml_engineer_200670136_3337": {
       "first_seen": "2026-06-26T19:55:19.365728",
       "title": "ShareSenior ML Engineer 200670136-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_staff_machine_learning_engineer_200674140_3337": {
+      "first_seen": "2026-07-24T19:34:44.386992",
+      "title": "ShareSenior / Staff Machine Learning Engineer 200674140-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareservice_reliability_engineer_g_a_solutions_engineering_": {
