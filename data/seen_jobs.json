@@ -70,6 +70,16 @@
       "title": "AIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety\nMachine Learning and AI\nJul 14, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
       "url": "https://jobs.apple.com/en-us/details/200652521-3401/aiml-machine-learning-engineer-red-teaming-responsible-ai-and-safety?team=MLAI"
     },
+    "apple_aiml_sr_data_engineer_dmli": {
+      "first_seen": "2026-07-29T02:54:59.217657",
+      "title": "AIML - Sr Data Engineer, DMLI",
+      "url": "https://jobs.apple.com/en-us/details/200660581-0836/aiml-sr-data-engineer-dmli?team=MLAI"
+    },
+    "apple_aiml_sr_data_engineer_dmli_machine_learning_and_ai_jul_29_20": {
+      "first_seen": "2026-07-29T02:54:59.217640",
+      "title": "AIML - Sr Data Engineer, DMLI\nMachine Learning and AI\nJul 29, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200660581-0836/aiml-sr-data-engineer-dmli?team=MLAI"
+    },
     "apple_aiml_sr_data_scientist_evaluation": {
       "first_seen": "2026-06-23T03:55:43.561219",
       "title": "AIML - Sr Data Scientist, Evaluation",
@@ -259,6 +269,16 @@
       "first_seen": "2026-07-01T04:15:14.222029",
       "title": "Health Sensing ML Engineer\nHardware\nJun 30, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR"
+    },
+    "apple_ios_software_engineer_g_a_solutions_engineering_gse_": {
+      "first_seen": "2026-07-29T02:54:59.217672",
+      "title": "iOS Software Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200657613-0157/ios-software-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "apple_ios_software_engineer_g_a_solutions_engineering_gse_software": {
+      "first_seen": "2026-07-29T02:54:59.217667",
+      "title": "iOS Software Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJul 28, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200657613-0157/ios-software-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     },
     "apple_it_support_data_scientist_employee_experience_productivity_i": {
       "first_seen": "2026-07-14T19:24:51.758692",
@@ -520,6 +540,16 @@
       "title": "Senior Machine Learning Engineer - Model Inference\nSoftware and Services\nJul 02, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670871-0836/senior-machine-learning-engineer-model-inference?team=SFTWR"
     },
+    "apple_senior_machine_learning_engineer_news_books_and_stocks_team": {
+      "first_seen": "2026-07-29T02:54:59.217686",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0157/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "apple_senior_machine_learning_engineer_news_books_and_stocks_team_": {
+      "first_seen": "2026-07-29T02:54:59.217682",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team\nSoftware and Services\nJul 28, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0157/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
     "apple_senior_machine_learning_engineer_nlp_input_experience": {
       "first_seen": "2026-07-25T02:55:25.246095",
       "title": "Senior Machine Learning Engineer, NLP, Input Experience",
@@ -628,6 +658,11 @@
     "apple_shareaiml_machine_learning_engineer_red_teaming_responsible_": {
       "first_seen": "2026-07-14T19:24:51.758660",
       "title": "ShareAIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety 200652521-3401",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareaiml_sr_data_engineer_dmli_200660581_0836": {
+      "first_seen": "2026-07-29T02:54:59.217663",
+      "title": "ShareAIML - Sr Data Engineer, DMLI 200660581-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareaiml_sr_data_scientist_evaluation_200638769_3337": {
@@ -768,6 +803,11 @@
     "apple_sharehealth_sensing_ml_engineer_200670408_0836": {
       "first_seen": "2026-07-01T04:15:14.222046",
       "title": "ShareHealth Sensing ML Engineer 200670408-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareios_software_engineer_g_a_solutions_engineering_gse_200": {
+      "first_seen": "2026-07-29T02:54:59.217677",
+      "title": "ShareiOS Software Engineer, G&A Solutions Engineering (GSE) 200657613-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareit_support_data_scientist_employee_experience_productiv": {
@@ -948,6 +988,11 @@
     "apple_sharesenior_machine_learning_engineer_model_inference_200670": {
       "first_seen": "2026-07-02T19:36:25.411380",
       "title": "ShareSenior Machine Learning Engineer - Model Inference 200670871-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_machine_learning_engineer_news_books_and_stocks_": {
+      "first_seen": "2026-07-29T02:54:59.217690",
+      "title": "ShareSenior Machine Learning Engineer - News, Books, and Stocks Team 200674467-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_machine_learning_engineer_nlp_input_experience_2": {
