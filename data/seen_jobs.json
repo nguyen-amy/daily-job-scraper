@@ -140,6 +140,11 @@
       "title": "Data Engineer, Battery Data Platform & AI\nHardware\nJul 08, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200671480-0836/data-engineer-battery-data-platform-ai?team=HRDWR"
     },
+    "apple_data_engineer_battery_data_platform_ai_hardware_jul_29_2026_": {
+      "first_seen": "2026-07-30T02:39:41.994281",
+      "title": "Data Engineer, Battery Data Platform & AI\nHardware\nJul 29, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200674923-0836/data-engineer-battery-data-platform-ai?team=HRDWR"
+    },
     "apple_data_engineer_battery_data_platform_ai_hardware_jun_17_2026_": {
       "first_seen": "2026-06-18T04:21:51.997559",
       "title": "Data Engineer - Battery Data Platform & AI\nHardware\nJun 17, 2026\nLocation\nCupertino\nActions",
@@ -740,6 +745,11 @@
       "title": "ShareData Engineer, Battery Data Platform & AI 200671566-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedata_engineer_battery_data_platform_ai_200674923_0836": {
+      "first_seen": "2026-07-30T02:39:41.994299",
+      "title": "ShareData Engineer, Battery Data Platform & AI 200674923-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharedata_engineer_ios_health_technologies_200670698_3543": {
       "first_seen": "2026-07-11T02:55:27.456640",
       "title": "ShareData Engineer, iOS \u2014 Health Technologies 200670698-3543",
@@ -1060,6 +1070,11 @@
       "title": "ShareService Reliability Engineer, G&A Solutions Engineering 200653239-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesoftware_quality_engineer_g_a_solutions_engineering_gse": {
+      "first_seen": "2026-07-30T02:39:41.994314",
+      "title": "ShareSoftware Quality Engineer, G&A Solutions Engineering (GSE) 200640898-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharesolutions_architect_applecare_technologies_200672891_01": {
       "first_seen": "2026-07-21T19:37:07.957659",
       "title": "ShareSolutions Architect, AppleCare Technologies 200672891-0157",
@@ -1119,6 +1134,16 @@
       "first_seen": "2026-07-10T19:38:25.281107",
       "title": "ShareWPC Apple Card Data Scientist 200671949-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_software_quality_engineer_g_a_solutions_engineering_gse_": {
+      "first_seen": "2026-07-30T02:39:41.994309",
+      "title": "Software Quality Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200640898-0157/software-quality-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "apple_software_quality_engineer_g_a_solutions_engineering_gse_soft": {
+      "first_seen": "2026-07-30T02:39:41.994305",
+      "title": "Software Quality Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJul 29, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200640898-0157/software-quality-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     },
     "apple_solutions_architect_applecare_technologies": {
       "first_seen": "2026-07-21T19:37:07.957654",
