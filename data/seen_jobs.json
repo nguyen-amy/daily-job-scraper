@@ -520,6 +520,16 @@
       "title": "On-device ML Engineering Manager (Tools & Services)\nMachine Learning and AI\nJul 22, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200672748-3337/on-device-ml-engineering-manager-tools-services?team=MLAI"
     },
+    "apple_principal_data_engineering_lead_services_special_project": {
+      "first_seen": "2026-08-01T03:19:25.713151",
+      "title": "Principal Data Engineering Lead - Services Special Project",
+      "url": "https://jobs.apple.com/en-us/details/200675155-0836/principal-data-engineering-lead-services-special-project?team=SFTWR"
+    },
+    "apple_principal_data_engineering_lead_services_special_project_sof": {
+      "first_seen": "2026-08-01T03:19:25.713134",
+      "title": "Principal Data Engineering Lead - Services Special Project\nSoftware and Services\nJul 31, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200675155-0836/principal-data-engineering-lead-services-special-project?team=SFTWR"
+    },
     "apple_senior_ai_and_machine_learning_engineer_maps_services_evalua": {
       "first_seen": "2026-07-21T02:57:13.648150",
       "title": "Senior AI and Machine Learning Engineer, Maps Services Evaluation\nSoftware and Services\nJul 21, 2026\nLocation\nCupertino\nActions",
@@ -534,6 +544,16 @@
       "first_seen": "2026-06-16T04:48:13.627173",
       "title": "Senior AI Engineer\nSales and Business Development\nJun 15, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200668239-0157/senior-ai-engineer?team=SLDEV"
+    },
+    "apple_senior_ai_engineer_services_special_projects": {
+      "first_seen": "2026-08-01T03:19:25.713165",
+      "title": "Senior AI Engineer - Services Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200675256-3401/senior-ai-engineer-services-special-projects?team=SFTWR"
+    },
+    "apple_senior_ai_engineer_services_special_projects_software_and_se": {
+      "first_seen": "2026-08-01T03:19:25.713161",
+      "title": "Senior AI Engineer - Services Special Projects\nSoftware and Services\nJul 31, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200675256-3401/senior-ai-engineer-services-special-projects?team=SFTWR"
     },
     "apple_senior_computer_vision_machine_learning_engineer_3d_vision_p": {
       "first_seen": "2026-06-17T20:19:33.226231",
@@ -1040,6 +1060,11 @@
       "title": "ShareOn-device ML Engineering Manager (Tools & Services) 200672748-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_shareprincipal_data_engineering_lead_services_special_projec": {
+      "first_seen": "2026-08-01T03:19:25.713156",
+      "title": "SharePrincipal Data Engineering Lead - Services Special Project 200675155-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharesenior_ai_and_machine_learning_engineer_maps_services_e": {
       "first_seen": "2026-07-21T02:57:13.648168",
       "title": "ShareSenior AI and Machine Learning Engineer, Maps Services Evaluation 200673066-0836",
@@ -1053,6 +1078,11 @@
     "apple_sharesenior_ai_engineer_200668239_0836": {
       "first_seen": "2026-06-16T04:48:13.627188",
       "title": "ShareSenior AI Engineer 200668239-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharesenior_ai_engineer_services_special_projects_200675256_": {
+      "first_seen": "2026-08-01T03:19:25.713169",
+      "title": "ShareSenior AI Engineer - Services Special Projects 200675256-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharesenior_computer_vision_machine_learning_engineer_3d_vis": {
@@ -1190,6 +1220,11 @@
       "title": "ShareSr. Machine Learning Engineer, Siri Global 200672686-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesr_ml_engineering_manager_search_services_special_proje": {
+      "first_seen": "2026-08-01T03:19:25.713181",
+      "title": "ShareSr ML Engineering Manager, Search - Services Special Projects  200675260-3401",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharestaff_ml_engineer_ads_ml_infrastructure_200670904_0836": {
       "first_seen": "2026-07-06T20:03:24.141027",
       "title": "ShareStaff ML Engineer - Ads ML Infrastructure 200670904-0836",
@@ -1284,6 +1319,16 @@
       "first_seen": "2026-07-16T19:17:41.360662",
       "title": "Sr. Machine Learning Engineer, Siri Global\nMachine Learning and AI\nJul 16, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200672686-0836/sr-machine-learning-engineer-siri-global?team=MLAI"
+    },
+    "apple_sr_ml_engineering_manager_search_services_special_projects": {
+      "first_seen": "2026-08-01T03:19:25.713177",
+      "title": "Sr ML Engineering Manager, Search - Services Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200675260-3401/sr-ml-engineering-manager-search-services-special-projects?team=SFTWR"
+    },
+    "apple_sr_ml_engineering_manager_search_services_special_projects_s": {
+      "first_seen": "2026-08-01T03:19:25.713173",
+      "title": "Sr ML Engineering Manager, Search - Services Special Projects \nSoftware and Services\nJul 31, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200675260-3401/sr-ml-engineering-manager-search-services-special-projects?team=SFTWR"
     },
     "apple_staff_ml_engineer_ads_ml_infrastructure": {
       "first_seen": "2026-07-06T20:03:24.141024",
