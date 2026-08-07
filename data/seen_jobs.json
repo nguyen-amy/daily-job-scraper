@@ -145,6 +145,16 @@
       "title": "Camera Software - Sr. Machine Learning Engineer\nSoftware and Services\nJul 14, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200644537-0836/camera-software-sr-machine-learning-engineer?team=SFTWR"
     },
+    "apple_cdn_solutions_engineer": {
+      "first_seen": "2026-08-07T00:05:29.544659",
+      "title": "CDN Solutions Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200672206-0836/cdn-solutions-engineer?team=SFTWR"
+    },
+    "apple_cdn_solutions_engineer_software_and_services_aug_06_2026_loc": {
+      "first_seen": "2026-08-07T00:05:29.544656",
+      "title": "CDN Solutions Engineer\nSoftware and Services\nAug 06, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200672206-0836/cdn-solutions-engineer?team=SFTWR"
+    },
     "apple_cv_and_ml_engineer": {
       "first_seen": "2026-06-30T03:59:56.769644",
       "title": "CV and ML Engineer",
@@ -279,6 +289,16 @@
       "first_seen": "2026-06-16T20:56:42.438642",
       "title": "DevOps Engineer, G&A Solutions Engineering (GSE)\nSoftware and Services\nJun 16, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200667899-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "apple_display_algorithm_engineer_machine_learning_engineer": {
+      "first_seen": "2026-08-07T00:05:29.544648",
+      "title": "Display Algorithm Engineer / Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200676458-3401/display-algorithm-engineer-machine-learning-engineer?team=HRDWR"
+    },
+    "apple_display_algorithm_engineer_machine_learning_engineer_hardwar": {
+      "first_seen": "2026-08-07T00:05:29.544633",
+      "title": "Display Algorithm Engineer / Machine Learning Engineer\nHardware\nAug 06, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200676458-3401/display-algorithm-engineer-machine-learning-engineer?team=HRDWR"
     },
     "apple_evaluation_insights_machine_learning_engineer": {
       "first_seen": "2026-07-07T20:01:21.579461",
@@ -810,6 +830,11 @@
       "title": "ShareCamera Software - Sr. Machine Learning Engineer 200644537-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharecdn_solutions_engineer_200672206_0836": {
+      "first_seen": "2026-08-07T00:05:29.544663",
+      "title": "ShareCDN Solutions Engineer 200672206-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharecv_and_ml_engineer_200670387_3337": {
       "first_seen": "2026-06-30T03:59:56.769649",
       "title": "ShareCV and ML Engineer 200670387-3337",
@@ -913,6 +938,11 @@
     "apple_sharedevops_engineer_g_a_solutions_engineering_gse_200667899": {
       "first_seen": "2026-06-16T20:56:42.438647",
       "title": "ShareDevOps Engineer, G&A Solutions Engineering (GSE) 200667899-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharedisplay_algorithm_engineer_machine_learning_engineer_20": {
+      "first_seen": "2026-08-07T00:05:29.544653",
+      "title": "ShareDisplay Algorithm Engineer / Machine Learning Engineer 200676458-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareevaluation_insights_machine_learning_engineer_200671363": {
