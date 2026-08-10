@@ -280,6 +280,16 @@
       "title": "Data Scientist - Strategic Security Risk\nSoftware and Services\nJun 24, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669799-3337/data-scientist-strategic-security-risk?team=SFTWR"
     },
+    "apple_data_scientist_subscription_analytics": {
+      "first_seen": "2026-08-10T19:01:55.498419",
+      "title": "Data Scientist, Subscription Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200676609-0836/data-scientist-subscription-analytics?team=SFTWR"
+    },
+    "apple_data_scientist_subscription_analytics_software_and_services_": {
+      "first_seen": "2026-08-10T19:01:55.498416",
+      "title": "Data Scientist, Subscription Analytics\nSoftware and Services\nAug 10, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200676609-0836/data-scientist-subscription-analytics?team=SFTWR"
+    },
     "apple_demographic_data_scientist": {
       "first_seen": "2026-07-03T03:37:48.175855",
       "title": "Demographic Data Scientist",
@@ -314,6 +324,11 @@
       "first_seen": "2026-08-07T00:05:29.544633",
       "title": "Display Algorithm Engineer / Machine Learning Engineer\nHardware\nAug 06, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
       "url": "https://jobs.apple.com/en-us/details/200676458-3401/display-algorithm-engineer-machine-learning-engineer?team=HRDWR"
+    },
+    "apple_engineering_project_manager_payments_financial_eng_g_a_solut": {
+      "first_seen": "2026-08-10T19:01:55.498400",
+      "title": "Engineering Project Manager (Payments & Financial Eng), G&A Solutions Engineering (GSE)\nSoftware and Services\nAug 10, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200676228-3956/engineering-project-manager-payments-financial-eng-g-a-solutions-engineering-gse?team=SFTWR"
     },
     "apple_evaluation_insights_machine_learning_engineer": {
       "first_seen": "2026-07-07T20:01:21.579461",
@@ -960,6 +975,11 @@
       "title": "ShareData Scientist - Strategic Security Risk 200669799-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedata_scientist_subscription_analytics_200676609_0836": {
+      "first_seen": "2026-08-10T19:01:55.498422",
+      "title": "ShareData Scientist, Subscription Analytics 200676609-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharedemographic_data_scientist_200670761_0157": {
       "first_seen": "2026-07-03T03:37:48.175859",
       "title": "ShareDemographic Data Scientist 200670761-0157",
@@ -978,6 +998,11 @@
     "apple_sharedisplay_algorithm_engineer_machine_learning_engineer_20": {
       "first_seen": "2026-08-07T00:05:29.544653",
       "title": "ShareDisplay Algorithm Engineer / Machine Learning Engineer 200676458-3401",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareengineering_project_manager_payments_financial_eng_g_a_": {
+      "first_seen": "2026-08-10T19:01:55.498413",
+      "title": "ShareEngineering Project Manager (Payments & Financial Eng), G&A Solutions Engineering (GSE) 200676228-3956",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareevaluation_insights_machine_learning_engineer_200671363": {
@@ -1310,6 +1335,11 @@
       "title": "ShareSr ML Engineering Manager, Search - Services Special Projects  200675260-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharesr_software_engineer_salesforce_g_a_solutions_engineeri": {
+      "first_seen": "2026-08-10T19:01:55.498427",
+      "title": "ShareSr. Software Engineer (Salesforce), G&A Solutions Engineering (GSE) 200676533-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharestaff_machine_learning_engineer_tools_and_framework_ai_": {
       "first_seen": "2026-08-07T07:21:25.463252",
       "title": "ShareStaff Machine Learning Engineer, Tools and Framework AI 200675799-0836",
@@ -1429,6 +1459,11 @@
       "first_seen": "2026-08-01T03:19:25.713173",
       "title": "Sr ML Engineering Manager, Search - Services Special Projects \nSoftware and Services\nJul 31, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
       "url": "https://jobs.apple.com/en-us/details/200675260-3401/sr-ml-engineering-manager-search-services-special-projects?team=SFTWR"
+    },
+    "apple_sr_software_engineer_salesforce_g_a_solutions_engineering_gs": {
+      "first_seen": "2026-08-10T19:01:55.498424",
+      "title": "Sr. Software Engineer (Salesforce), G&A Solutions Engineering (GSE)\nSoftware and Services\nAug 10, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200676533-0157/sr-software-engineer-salesforce-g-a-solutions-engineering-gse?team=SFTWR"
     },
     "apple_staff_machine_learning_engineer_tools_and_framework_ai": {
       "first_seen": "2026-08-07T07:21:25.463248",
