@@ -510,6 +510,11 @@
       "title": "Machine Learning Engineer - News, Books, and Stocks Team\nSoftware and Services\nJul 29, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200674703-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
     },
+    "apple_machine_learning_engineer_on_device_control_and_optimization": {
+      "first_seen": "2026-08-22T01:23:57.433295",
+      "title": "Machine Learning Engineer - On-Device Control and Optimization \nSoftware and Services\nAug 21, 2026\nLocation\nSeattle\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200676105-3337/machine-learning-engineer-on-device-control-and-optimization?team=SFTWR"
+    },
     "apple_machine_learning_engineer_people_analytics": {
       "first_seen": "2026-06-14T19:42:05.740482",
       "title": "Machine Learning Engineer - People Analytics",
@@ -1208,6 +1213,11 @@
     "apple_sharemachine_learning_engineer_news_books_and_stocks_team_20": {
       "first_seen": "2026-07-29T08:46:39.260059",
       "title": "ShareMachine Learning Engineer - News, Books, and Stocks Team 200674703-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_engineer_on_device_control_and_optimiz": {
+      "first_seen": "2026-08-22T01:23:57.433310",
+      "title": "ShareMachine Learning Engineer - On-Device Control and Optimization  200676105-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_people_analytics_200665705_08": {
@@ -1915,6 +1925,11 @@
       "first_seen": "2026-06-12T02:23:38.823152",
       "title": "Staff machine learning engineer",
       "url": "https://jobs.ashbyhq.com/Watershed/fe2c1ba2-a86c-4697-9083-28c69067cd1d"
+    },
+    "febe4576-02de-420f-b668-0897b229465a": {
+      "first_seen": "2026-08-22T01:23:47.469443",
+      "title": "Climate Data Scientist, Sustainability",
+      "url": "https://jobs.ashbyhq.com/Watershed/febe4576-02de-420f-b668-0897b229465a"
     }
   }
 }
