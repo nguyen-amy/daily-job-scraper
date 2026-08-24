@@ -440,6 +440,11 @@
       "title": "Lead AI/ML Engineer (GenAI & Agentic Systems)-iCloud\nSoftware and Services\nJul 06, 2026\nLocation\nCulver City\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670755-0670/lead-ai-ml-engineer-genai-agentic-systems-icloud?team=SFTWR"
     },
+    "apple_machine_learning_engineer": {
+      "first_seen": "2026-08-24T18:45:08.746473",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200679658-0836/machine-learning-engineer?team=SFTWR"
+    },
     "apple_machine_learning_engineer_apple_search_knowledge_platforms": {
       "first_seen": "2026-06-23T20:11:20.601987",
       "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
@@ -564,6 +569,21 @@
       "first_seen": "2026-06-25T03:57:40.819560",
       "title": "Machine Learning Engineer, Siri Global\nMachine Learning and AI\nJun 25, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669919-0836/machine-learning-engineer-siri-global?team=MLAI"
+    },
+    "apple_machine_learning_engineer_software_and_services_aug_24_2026_": {
+      "first_seen": "2026-08-24T18:45:08.746457",
+      "title": "Machine Learning Engineer\nSoftware and Services\nAug 24, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200679658-0836/machine-learning-engineer?team=SFTWR"
+    },
+    "apple_machine_learning_engineer_software_qa_creativity_apps": {
+      "first_seen": "2026-08-24T18:45:08.746483",
+      "title": "Machine Learning Engineer, Software QA - Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200679086-3543/machine-learning-engineer-software-qa-creativity-apps?team=SFTWR"
+    },
+    "apple_machine_learning_engineer_software_qa_creativity_apps_softwa": {
+      "first_seen": "2026-08-24T18:45:08.746480",
+      "title": "Machine Learning Engineer, Software QA - Creativity Apps\nSoftware and Services\nAug 24, 2026\nLocation\nSan Diego\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200679086-3543/machine-learning-engineer-software-qa-creativity-apps?team=SFTWR"
     },
     "apple_machine_learning_engineer_strategic_data_solutions": {
       "first_seen": "2026-08-13T19:06:39.281349",
@@ -1160,6 +1180,11 @@
       "title": "ShareLead AI/ML Engineer (GenAI & Agentic Systems)-iCloud 200670755-0670",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharemachine_learning_engineer_200679658_0836": {
+      "first_seen": "2026-08-24T18:45:08.746477",
+      "title": "ShareMachine Learning Engineer 200679658-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharemachine_learning_engineer_apple_search_knowledge_platfo": {
       "first_seen": "2026-06-23T20:11:20.601991",
       "title": "ShareMachine Learning Engineer, Apple Search & Knowledge Platforms 200669635-3760",
@@ -1248,6 +1273,11 @@
     "apple_sharemachine_learning_engineer_siri_global_200669919_0836": {
       "first_seen": "2026-06-25T03:57:40.819580",
       "title": "ShareMachine Learning Engineer, Siri Global 200669919-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_engineer_software_qa_creativity_apps_2": {
+      "first_seen": "2026-08-24T18:45:08.746486",
+      "title": "ShareMachine Learning Engineer, Software QA - Creativity Apps 200679086-3543",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_strategic_data_solutions_2006": {
