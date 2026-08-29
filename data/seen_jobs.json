@@ -165,6 +165,11 @@
       "title": "Applied AI Engineer\nMachine Learning and AI\nJul 07, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI"
     },
+    "apple_applied_data_scientist_and_visualization_specialist_hardware": {
+      "first_seen": "2026-08-29T06:23:20.947556",
+      "title": "Applied Data Scientist and Visualization Specialist - Hardware Engineering Product Design\nHardware\nAug 29, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200680059-3956/applied-data-scientist-and-visualization-specialist-hardware-engineering-product-design?team=HRDWR"
+    },
     "apple_camera_hardware_data_engineer": {
       "first_seen": "2026-07-07T03:47:17.162657",
       "title": "Camera Hardware Data Engineer",
@@ -414,6 +419,16 @@
       "first_seen": "2026-07-01T04:15:14.222029",
       "title": "Health Sensing ML Engineer\nHardware\nJun 30, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR"
+    },
+    "apple_homekit_machine_learning_engineer": {
+      "first_seen": "2026-08-29T06:23:20.947567",
+      "title": "HomeKit Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200680682-3401/homekit-machine-learning-engineer?team=SFTWR"
+    },
+    "apple_homekit_machine_learning_engineer_software_and_services_aug_": {
+      "first_seen": "2026-08-29T06:23:20.947563",
+      "title": "HomeKit Machine Learning Engineer\nSoftware and Services\nAug 28, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200680682-3401/homekit-machine-learning-engineer?team=SFTWR"
     },
     "apple_ios_software_engineer_g_a_solutions_engineering_gse_": {
       "first_seen": "2026-07-29T02:54:59.217672",
@@ -1005,6 +1020,11 @@
       "title": "ShareApplied AI Engineer - iCloud Data 200677759-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_shareapplied_data_scientist_and_visualization_specialist_har": {
+      "first_seen": "2026-08-29T06:23:20.947560",
+      "title": "ShareApplied Data Scientist and Visualization Specialist - Hardware Engineering Product Design 200680059-3956",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharecamera_hardware_data_engineer_200670678_0836": {
       "first_seen": "2026-07-07T03:47:17.162661",
       "title": "ShareCamera Hardware Data Engineer 200670678-0836",
@@ -1183,6 +1203,11 @@
     "apple_sharehealth_sensing_ml_engineer_200670408_0836": {
       "first_seen": "2026-07-01T04:15:14.222046",
       "title": "ShareHealth Sensing ML Engineer 200670408-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharehomekit_machine_learning_engineer_200680682_3401": {
+      "first_seen": "2026-08-29T06:23:20.947569",
+      "title": "ShareHomeKit Machine Learning Engineer 200680682-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareios_software_engineer_g_a_solutions_engineering_gse_200": {
@@ -1383,6 +1408,11 @@
     "apple_shareon_device_ml_engineering_manager_tools_services_2006727": {
       "first_seen": "2026-07-22T19:25:52.927557",
       "title": "ShareOn-device ML Engineering Manager (Tools & Services) 200672748-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareon_device_ml_engineering_manager_tools_services_2006808": {
+      "first_seen": "2026-08-29T06:23:20.947543",
+      "title": "ShareOn-device ML Engineering Manager (Tools & Services) 200680827-3337",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareplatform_data_engineer_200672605_0836": {
