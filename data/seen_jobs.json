@@ -210,6 +210,11 @@
       "title": "CDN Solutions Engineer\nSoftware and Services\nAug 06, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200672206-0836/cdn-solutions-engineer?team=SFTWR"
     },
+    "apple_computational_photography_computer_vision_machine_learning_e": {
+      "first_seen": "2026-09-11T20:42:59.359731",
+      "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos \nSoftware and Services\nSep 11, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200634411-0836/computational-photography-computer-vision-machine-learning-engineer-camera-photos?team=SFTWR"
+    },
     "apple_cv_and_ml_engineer": {
       "first_seen": "2026-06-30T03:59:56.769644",
       "title": "CV and ML Engineer",
@@ -279,6 +284,16 @@
       "first_seen": "2026-06-18T04:21:51.997530",
       "title": "Data Scientist, AI/ML Model Quality\nSoftware and Services\nJun 18, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200667346-0157/data-scientist-ai-ml-model-quality?team=SFTWR"
+    },
+    "apple_data_scientist_apple_pay": {
+      "first_seen": "2026-09-11T20:42:59.359771",
+      "title": "Data Scientist, Apple Pay",
+      "url": "https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=MLAI"
+    },
+    "apple_data_scientist_apple_pay_machine_learning_and_ai_sep_11_2026": {
+      "first_seen": "2026-09-11T20:42:59.359766",
+      "title": "Data Scientist, Apple Pay\nMachine Learning and AI\nSep 11, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=MLAI"
     },
     "apple_data_scientist_business_strategy_product_marketing": {
       "first_seen": "2026-07-30T19:38:11.270203",
@@ -419,6 +434,16 @@
       "first_seen": "2026-07-02T03:55:33.400293",
       "title": "Finance Data Scientist - Enablement\nMachine Learning and AI\nJul 01, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=MLAI"
+    },
+    "apple_flow_solutions_architect": {
+      "first_seen": "2026-09-11T20:42:59.359758",
+      "title": "Flow Solutions Architect",
+      "url": "https://jobs.apple.com/en-us/details/200683299-3956/flow-solutions-architect?team=SFTWR"
+    },
+    "apple_flow_solutions_architect_software_and_services_sep_11_2026_l": {
+      "first_seen": "2026-09-11T20:42:59.359753",
+      "title": "Flow Solutions Architect\nSoftware and Services\nSep 11, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200683299-3956/flow-solutions-architect?team=SFTWR"
     },
     "apple_gpu_ml_engineer": {
       "first_seen": "2026-07-22T19:25:52.927568",
@@ -1115,6 +1140,11 @@
       "title": "ShareCDN Solutions Engineer 200672206-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharecomputational_photography_computer_vision_machine_learn": {
+      "first_seen": "2026-09-11T20:42:59.359748",
+      "title": "ShareComputational Photography/Computer Vision Machine Learning Engineer, Camera & Photos  200634411-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharecv_and_ml_engineer_200670387_3337": {
       "first_seen": "2026-06-30T03:59:56.769649",
       "title": "ShareCV and ML Engineer 200670387-3337",
@@ -1215,6 +1245,11 @@
       "title": "ShareData Scientist, AI/ML Model Quality 200676435-3543",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedata_scientist_apple_pay_200683123_0836": {
+      "first_seen": "2026-09-11T20:42:59.359776",
+      "title": "ShareData Scientist, Apple Pay 200683123-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharedata_scientist_business_strategy_product_marketing_2006": {
       "first_seen": "2026-07-30T19:38:11.270209",
       "title": "ShareData Scientist - Business Strategy, Product Marketing 200661963-0836",
@@ -1283,6 +1318,11 @@
     "apple_sharefinance_data_scientist_enablement_200659972_0836": {
       "first_seen": "2026-07-02T03:55:33.400316",
       "title": "ShareFinance Data Scientist - Enablement 200659972-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareflow_solutions_architect_200683299_3956": {
+      "first_seen": "2026-09-11T20:42:59.359762",
+      "title": "ShareFlow Solutions Architect 200683299-3956",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharegpu_ml_engineer_200672759_0836": {
