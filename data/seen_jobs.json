@@ -315,6 +315,16 @@
       "title": "Data Scientist, Apple Pay\nMachine Learning and AI\nSep 11, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=MLAI"
     },
+    "apple_data_scientist_audio_telemetry_intelligence": {
+      "first_seen": "2026-09-22T21:02:51.837394",
+      "title": "Data Scientist, Audio Telemetry Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-telemetry-intelligence?team=SFTWR"
+    },
+    "apple_data_scientist_audio_telemetry_intelligence_software_and_ser": {
+      "first_seen": "2026-09-22T21:02:51.837391",
+      "title": "Data Scientist, Audio Telemetry Intelligence\nSoftware and Services\nSep 22, 2026\nLocation\nSan Diego\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-telemetry-intelligence?team=SFTWR"
+    },
     "apple_data_scientist_business_strategy_product_marketing": {
       "first_seen": "2026-07-30T19:38:11.270203",
       "title": "Data Scientist - Business Strategy, Product Marketing",
@@ -524,6 +534,16 @@
       "first_seen": "2026-07-07T03:47:17.162686",
       "title": "Lead AI/ML Engineer (GenAI & Agentic Systems)-iCloud\nSoftware and Services\nJul 06, 2026\nLocation\nCulver City\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670755-0670/lead-ai-ml-engineer-genai-agentic-systems-icloud?team=SFTWR"
+    },
+    "apple_machine_learning_data_scientist_os_power_performance": {
+      "first_seen": "2026-09-22T21:02:51.837383",
+      "title": "Machine Learning & Data Scientist, OS Power & Performance",
+      "url": "https://jobs.apple.com/en-us/details/200684248-0836/machine-learning-data-scientist-os-power-performance?team=SFTWR"
+    },
+    "apple_machine_learning_data_scientist_os_power_performance_softwar": {
+      "first_seen": "2026-09-22T21:02:51.837369",
+      "title": "Machine Learning & Data Scientist, OS Power & Performance\nSoftware and Services\nSep 22, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200684248-0836/machine-learning-data-scientist-os-power-performance?team=SFTWR"
     },
     "apple_machine_learning_engineer": {
       "first_seen": "2026-08-24T18:45:08.746473",
@@ -1340,6 +1360,11 @@
       "title": "ShareData Scientist, Apple Pay 200683123-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharedata_scientist_audio_telemetry_intelligence_200652696_3": {
+      "first_seen": "2026-09-22T21:02:51.837397",
+      "title": "ShareData Scientist, Audio Telemetry Intelligence 200652696-3543",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharedata_scientist_business_strategy_product_marketing_2006": {
       "first_seen": "2026-07-30T19:38:11.270209",
       "title": "ShareData Scientist - Business Strategy, Product Marketing 200661963-0836",
@@ -1448,6 +1473,11 @@
     "apple_sharelead_ai_ml_engineer_genai_agentic_systems_icloud_200670": {
       "first_seen": "2026-07-07T03:47:17.162695",
       "title": "ShareLead AI/ML Engineer (GenAI & Agentic Systems)-iCloud 200670755-0670",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_data_scientist_os_power_performance_20": {
+      "first_seen": "2026-09-22T21:02:51.837387",
+      "title": "ShareMachine Learning & Data Scientist, OS Power & Performance 200684248-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_200670239_0836": {
