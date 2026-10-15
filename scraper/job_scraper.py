@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scrapes Watershed and Figma careers pages for Data Scientist roles.
+Scrapes Watershed, Figma, Spotify, Apple and Zoox careers pages for Data Scientist roles.
 Sends an email when new postings are detected.
 """
 import json
@@ -40,7 +40,12 @@ COMPANIES = [
         "name": "Apple",
         "careers_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
         "use_playwright": True,
-    }
+    },
+    {
+        "name": "Zoox",
+        "careers_url": "https://zoox.com/careers",
+        "lever_company": "zoox",
+    },
 ]
 
 SEEN_JOBS_FILE = "data/seen_jobs.json"
