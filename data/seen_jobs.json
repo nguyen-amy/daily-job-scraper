@@ -445,6 +445,16 @@
       "title": "Data Scientist - Insights and Analytics\nHardware\nAug 05, 2026\nLocation\nAustin\nActions",
       "url": "https://jobs.apple.com/en-us/details/200675897-0157/data-scientist-insights-and-analytics?team=HRDWR"
     },
+    "apple_data_scientist_intelligent_experiences_mlo": {
+      "first_seen": "2026-10-17T15:15:20.363062",
+      "title": "Data Scientist - Intelligent Experiences, MLO",
+      "url": "https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI"
+    },
+    "apple_data_scientist_intelligent_experiences_mlo_machine_learning_": {
+      "first_seen": "2026-10-17T15:15:20.363049",
+      "title": "Data Scientist - Intelligent Experiences, MLO\nMachine Learning and AI\nOct 17, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI"
+    },
     "apple_data_scientist_machine_learning_and_ai_jun_18_2026_location_": {
       "first_seen": "2026-06-18T20:37:41.305029",
       "title": "Data Scientist\nMachine Learning and AI\nJun 18, 2026\nLocation\nCulver City\nActions",
@@ -1668,6 +1678,11 @@
     "apple_sharedata_scientist_insights_and_analytics_200675897_0157": {
       "first_seen": "2026-08-05T02:48:03.057010",
       "title": "ShareData Scientist - Insights and Analytics 200675897-0157",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharedata_scientist_intelligent_experiences_mlo_200687787_08": {
+      "first_seen": "2026-10-17T15:15:20.363065",
+      "title": "ShareData Scientist - Intelligent Experiences, MLO 200687787-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharedata_scientist_strategic_data_solutions_200645796_0157": {
