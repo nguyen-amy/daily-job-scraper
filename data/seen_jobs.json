@@ -1005,6 +1005,16 @@
       "title": "Manager, Product Management Data Scientist\nMarketing\nJul 01, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200669478-0836/manager-product-management-data-scientist?team=MKTG"
     },
+    "apple_ml_data_scientist": {
+      "first_seen": "2026-10-21T03:56:37.307847",
+      "title": "ML - Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200690294-3956/ml-data-scientist?team=HRDWR"
+    },
+    "apple_ml_data_scientist_hardware_oct_21_2026_location_sunnyvale_ac": {
+      "first_seen": "2026-10-21T03:56:37.307835",
+      "title": "ML - Data Scientist\nHardware\nOct 21, 2026\nLocation\nSunnyvale\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200690294-3956/ml-data-scientist?team=HRDWR"
+    },
     "apple_ml_engineer_apple_foundation_models": {
       "first_seen": "2026-07-03T03:37:48.175840",
       "title": "ML Engineer, Apple Foundation Models",
@@ -2048,6 +2058,11 @@
     "apple_sharemanager_product_management_data_scientist_200669478_083": {
       "first_seen": "2026-07-01T09:56:05.230006",
       "title": "ShareManager, Product Management Data Scientist 200669478-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_shareml_data_scientist_200690294_3956": {
+      "first_seen": "2026-10-21T03:56:37.307850",
+      "title": "ShareML - Data Scientist 200690294-3956",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_shareml_engineer_apple_foundation_models_200670922_0836": {
