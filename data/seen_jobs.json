@@ -230,6 +230,11 @@
       "title": "Applied AI Engineer\nMachine Learning and AI\nOct 07, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI"
     },
+    "apple_applied_ai_engineer_machine_learning_and_ai_oct_28_2026_loca": {
+      "first_seen": "2026-10-28T22:22:12.094433",
+      "title": "Applied AI Engineer\nMachine Learning and AI\nOct 28, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200689594-0836/applied-ai-engineer?team=MLAI"
+    },
     "apple_applied_data_scientist_and_visualization_specialist_hardware": {
       "first_seen": "2026-08-29T06:23:20.947556",
       "title": "Applied Data Scientist and Visualization Specialist - Hardware Engineering Product Design\nHardware\nAug 29, 2026\nLocation\nSunnyvale\nActions",
@@ -314,6 +319,11 @@
       "first_seen": "2026-09-04T20:31:26.839521",
       "title": "Data Engineer, Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200681997-0157/data-engineer-apple-ads?team=SFTWR"
+    },
+    "apple_data_engineer_apple_ads_machine_learning_and_ai_oct_28_2026_": {
+      "first_seen": "2026-10-28T22:22:12.094412",
+      "title": "Data Engineer, Apple Ads\nMachine Learning and AI\nOct 28, 2026\nLocation\nAustin\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200692322-0157/data-engineer-apple-ads?team=MLAI"
     },
     "apple_data_engineer_apple_ads_machine_learning_and_ai_sep_22_2026_": {
       "first_seen": "2026-09-22T04:04:06.505448",
@@ -735,6 +745,11 @@
       "title": "Machine Learning Engineer, ASE Search Team\nMachine Learning and AI\nJul 15, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200672184-3337/machine-learning-engineer-ase-search-team?team=MLAI"
     },
+    "apple_machine_learning_engineer_computer_vision": {
+      "first_seen": "2026-10-28T22:22:12.094443",
+      "title": "Machine Learning Engineer, Computer Vision",
+      "url": "https://jobs.apple.com/en-us/details/200691173-0836/machine-learning-engineer-computer-vision?team=MLAI"
+    },
     "apple_machine_learning_engineer_computer_vision_data_systems": {
       "first_seen": "2026-07-28T14:17:20.800078",
       "title": "Machine Learning Engineer \u2013 Computer Vision & Data Systems",
@@ -744,6 +759,11 @@
       "first_seen": "2026-07-28T14:17:20.800062",
       "title": "Machine Learning Engineer \u2013 Computer Vision & Data Systems\nMachine Learning and AI\nJul 28, 2026\nLocation\nSeattle\nActions",
       "url": "https://jobs.apple.com/en-us/details/200674453-3337/machine-learning-engineer-computer-vision-data-systems?team=MLAI"
+    },
+    "apple_machine_learning_engineer_computer_vision_machine_learning_a": {
+      "first_seen": "2026-10-28T22:22:12.094441",
+      "title": "Machine Learning Engineer, Computer Vision\nMachine Learning and AI\nOct 28, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200691173-0836/machine-learning-engineer-computer-vision?team=MLAI"
     },
     "apple_machine_learning_engineer_creative_intelligence_systems": {
       "first_seen": "2026-10-15T21:06:21.392204",
@@ -1585,6 +1605,11 @@
       "title": "ShareApplied AI Engineer 200670689-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_shareapplied_ai_engineer_200689594_0836": {
+      "first_seen": "2026-10-28T22:22:12.094437",
+      "title": "ShareApplied AI Engineer 200689594-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_shareapplied_ai_engineer_apple_ads_200691639_0157": {
       "first_seen": "2026-10-26T22:26:38.499661",
       "title": "ShareApplied AI Engineer, Apple Ads 200691639-0157",
@@ -1688,6 +1713,11 @@
     "apple_sharedata_engineer_apple_ads_200684964_0836": {
       "first_seen": "2026-09-22T04:04:06.505463",
       "title": "ShareData Engineer, Apple Ads 200684964-0836",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharedata_engineer_apple_ads_200692322_0157": {
+      "first_seen": "2026-10-28T22:22:12.094428",
+      "title": "ShareData Engineer, Apple Ads 200692322-0157",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharedata_engineer_battery_data_platform_ai_200668472_0836": {
@@ -1978,6 +2008,11 @@
     "apple_sharemachine_learning_engineer_ase_search_team_200672184_333": {
       "first_seen": "2026-07-15T19:17:16.010361",
       "title": "ShareMachine Learning Engineer, ASE Search Team 200672184-3337",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharemachine_learning_engineer_computer_vision_200691173_083": {
+      "first_seen": "2026-10-28T22:22:12.094446",
+      "title": "ShareMachine Learning Engineer, Computer Vision 200691173-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharemachine_learning_engineer_computer_vision_data_systems_": {
@@ -3178,6 +3213,11 @@
     }
   },
   "Zoox": {
+    "06f146c2-25f6-40fd-8393-4f92ce518929": {
+      "first_seen": "2026-10-28T22:22:12.642430",
+      "title": "Machine Learning Engineer - Vision Foundation Models",
+      "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929"
+    },
     "170c22c2-24f8-4163-a007-45dec5bdb902": {
       "first_seen": "2026-10-15T17:38:19.078790",
       "title": "Senior / Staff Machine Learning Engineer - Behavior Models for Road Users",
