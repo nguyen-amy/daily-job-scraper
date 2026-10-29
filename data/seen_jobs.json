@@ -135,6 +135,16 @@
       "title": "AIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety\nMachine Learning and AI\nJul 14, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
       "url": "https://jobs.apple.com/en-us/details/200652521-3401/aiml-machine-learning-engineer-red-teaming-responsible-ai-and-safety?team=MLAI"
     },
+    "apple_aiml_ml_engineer_safety_human_evaluation": {
+      "first_seen": "2026-10-29T22:34:56.245732",
+      "title": "AIML - ML Engineer, Safety Human Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200692531-1242/aiml-ml-engineer-safety-human-evaluation?team=MLAI"
+    },
+    "apple_aiml_ml_engineer_safety_human_evaluation_machine_learning_an": {
+      "first_seen": "2026-10-29T22:34:56.245717",
+      "title": "AIML - ML Engineer, Safety Human Evaluation\nMachine Learning and AI\nOct 29, 2026\nLocation\nCambridge\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200692531-1242/aiml-ml-engineer-safety-human-evaluation?team=MLAI"
+    },
     "apple_aiml_sr_data_engineer_dmli": {
       "first_seen": "2026-07-29T02:54:59.217657",
       "title": "AIML - Sr Data Engineer, DMLI",
@@ -259,6 +269,11 @@
       "first_seen": "2026-10-16T03:49:39.843874",
       "title": "Battery Algorithm ML Engineer\nHardware\nOct 16, 2026\nLocation\nCupertino\nActions",
       "url": "https://jobs.apple.com/en-us/details/200689563-0836/battery-algorithm-ml-engineer?team=HRDWR"
+    },
+    "apple_battery_algorithm_ml_engineer_hardware_oct_29_2026_location_": {
+      "first_seen": "2026-10-29T22:34:56.245749",
+      "title": "Battery Algorithm ML Engineer\nHardware\nOct 29, 2026\nLocation\nCupertino\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200692363-0836/battery-algorithm-ml-engineer?team=HRDWR"
     },
     "apple_camera_hardware_data_engineer": {
       "first_seen": "2026-07-07T03:47:17.162657",
@@ -1560,6 +1575,11 @@
       "title": "ShareAIML - Machine Learning Engineer, Red Teaming - Responsible AI and Safety 200652521-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_shareaiml_ml_engineer_safety_human_evaluation_200692531_1242": {
+      "first_seen": "2026-10-29T22:34:56.245736",
+      "title": "ShareAIML - ML Engineer, Safety Human Evaluation 200692531-1242",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_shareaiml_sr_data_engineer_dmli_200660581_0836": {
       "first_seen": "2026-07-29T02:54:59.217663",
       "title": "ShareAIML - Sr Data Engineer, DMLI 200660581-0836",
@@ -1648,6 +1668,11 @@
     "apple_sharebattery_algorithm_ml_engineer_200689563_3543": {
       "first_seen": "2026-10-16T03:49:39.843898",
       "title": "ShareBattery Algorithm ML Engineer 200689563-3543",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
+    "apple_sharebattery_algorithm_ml_engineer_200692363_0836": {
+      "first_seen": "2026-10-29T22:34:56.245752",
+      "title": "ShareBattery Algorithm ML Engineer 200692363-0836",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
     "apple_sharecamera_hardware_data_engineer_200670678_0836": {
@@ -2670,6 +2695,11 @@
       "title": "ShareStaff / Sr. Machine Learning Engineer, AI, Search & Knowledge Platforms 200672425-3401",
       "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
     },
+    "apple_sharestaff_sr_ml_engineer_indexing_infrastructure_200692367_": {
+      "first_seen": "2026-10-29T22:34:56.245747",
+      "title": "ShareStaff / Sr. ML Engineer, Indexing Infrastructure 200692367-3760",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA"
+    },
     "apple_sharewpc_apple_card_data_scientist_200671949_0836": {
       "first_seen": "2026-07-10T19:38:25.281107",
       "title": "ShareWPC Apple Card Data Scientist 200671949-0836",
@@ -2944,6 +2974,16 @@
       "first_seen": "2026-10-01T05:00:00.105228",
       "title": "Staff / Sr. Machine Learning Engineer, AI, Search & Knowledge Platforms\nMachine Learning and AI\nOct 01, 2026\nLocation\nVarious Locations within San Francisco Bay Area\nActions",
       "url": "https://jobs.apple.com/en-us/details/200672425-3401/staff-sr-machine-learning-engineer-ai-search-knowledge-platforms?team=MLAI"
+    },
+    "apple_staff_sr_ml_engineer_indexing_infrastructure": {
+      "first_seen": "2026-10-29T22:34:56.245742",
+      "title": "Staff / Sr. ML Engineer, Indexing Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200692367-3760/staff-sr-ml-engineer-indexing-infrastructure?team=MLAI"
+    },
+    "apple_staff_sr_ml_engineer_indexing_infrastructure_machine_learnin": {
+      "first_seen": "2026-10-29T22:34:56.245739",
+      "title": "Staff / Sr. ML Engineer, Indexing Infrastructure\nMachine Learning and AI\nOct 29, 2026\nLocation\nSanta Clara\nActions",
+      "url": "https://jobs.apple.com/en-us/details/200692367-3760/staff-sr-ml-engineer-indexing-infrastructure?team=MLAI"
     },
     "apple_wpc_apple_card_data_scientist": {
       "first_seen": "2026-07-10T19:38:25.281103",
