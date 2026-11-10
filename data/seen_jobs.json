@@ -3234,6 +3234,11 @@
       "title": "Machine Learning Engineer, Personalization",
       "url": "https://www.lifeatspotify.com/jobs/machine-learning-engineer-personalization-4"
     },
+    "spotify_machine_learning_engineering_manager_ii": {
+      "first_seen": "2026-11-10T01:20:00.366293",
+      "title": "Machine Learning Engineering Manager II",
+      "url": "https://www.lifeatspotify.com/jobs/machine-learning-engineering-manager-ii"
+    },
     "spotify_machine_learning_engineering_manager_music": {
       "first_seen": "2026-09-30T22:01:24.983854",
       "title": "Machine Learning Engineering Manager, Music",
@@ -3388,6 +3393,11 @@
     }
   },
   "Zoox": {
+    "01ff8f1c-eda8-4c45-9cca-b4461d8757d5": {
+      "first_seen": "2026-11-10T01:20:34.946501",
+      "title": "Staff / Senior Staff Machine Learning Engineer - Collision Avoidance System",
+      "url": "https://jobs.lever.co/zoox/01ff8f1c-eda8-4c45-9cca-b4461d8757d5"
+    },
     "06f146c2-25f6-40fd-8393-4f92ce518929": {
       "first_seen": "2026-10-28T22:22:12.642430",
       "title": "Machine Learning Engineer - Vision Foundation Models",
@@ -3397,6 +3407,11 @@
       "first_seen": "2026-10-15T17:38:19.078790",
       "title": "Senior / Staff Machine Learning Engineer - Behavior Models for Road Users",
       "url": "https://jobs.lever.co/zoox/170c22c2-24f8-4163-a007-45dec5bdb902"
+    },
+    "1dc3a72e-1461-4c66-b424-252f057809ed": {
+      "first_seen": "2026-11-10T01:20:34.946498",
+      "title": "Senior/Staff Machine Learning Engineer, 3D Simulation",
+      "url": "https://jobs.lever.co/zoox/1dc3a72e-1461-4c66-b424-252f057809ed"
     },
     "1ff0f89b-77ec-4e86-927e-7098c377581f": {
       "first_seen": "2026-10-15T17:38:19.078802",
@@ -3417,6 +3432,11 @@
       "first_seen": "2026-10-21T16:52:44.473327",
       "title": "Data Scientist, Fleet Orchestration Algorithms",
       "url": "https://jobs.lever.co/zoox/254559af-8372-403b-8220-9b49af400361"
+    },
+    "2d73563c-8039-4d1b-844c-3953259ba6b1": {
+      "first_seen": "2026-11-10T01:20:34.946483",
+      "title": "Machine Learning Engineer, 3D Simulation",
+      "url": "https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1"
     },
     "2f65fc0e-16f1-48a9-b34d-5ca5dcf76800": {
       "first_seen": "2026-10-15T17:38:19.078797",
